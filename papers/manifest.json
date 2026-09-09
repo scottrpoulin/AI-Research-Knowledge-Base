@@ -1,0 +1,1670 @@
+{
+  "2605.18747": {
+    "abs_url": "https://arxiv.org/abs/2605.18747",
+    "authors": [
+      "Xuying Ning",
+      "Katherine Tieu",
+      "Dongqi Fu",
+      "Tianxin Wei",
+      "Zihao Li",
+      "Yuanchen Bei",
+      "Jiaru Zou",
+      "Mengting Ai",
+      "Zhining Liu",
+      "Ting-Wei Li",
+      "Lingjie Chen",
+      "Yanjun Zhao",
+      "Ke Yang",
+      "Bingxuan Li",
+      "Cheng Qian",
+      "Gaotang Li",
+      "Xiao Lin",
+      "Zhichen Zeng",
+      "Ruizhong Qiu",
+      "Sirui Chen",
+      "Yifan Sun",
+      "Xiyuan Yang",
+      "Ruida Wang",
+      "Rui Pan",
+      "Chenyuan Yang",
+      "Dylan Zhang",
+      "Liri Fang",
+      "Zikun Cui",
+      "Yang Cao",
+      "Pan Chen",
+      "Dorothy Sun",
+      "Ren Chen",
+      "Mahesh Srinivasan",
+      "Nipun Mathur",
+      "Yinglong Xia",
+      "Hong Li",
+      "Hong Yan",
+      "Pan Lu",
+      "Lingming Zhang",
+      "Tong Zhang",
+      "Hanghang Tong",
+      "Jingrui He"
+    ],
+    "filename": "2605.18747_code-as-agent-harness.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.18747",
+    "published": "2026-05-18",
+    "title": "Code as Agent Harness"
+  },
+  "2606.20363": {
+    "abs_url": "https://arxiv.org/abs/2606.20363",
+    "authors": [
+      "Yuexing Hao",
+      "Xiaomin Li"
+    ],
+    "filename": "2606.20363_automating-skillmd-generation-for-computer-using-agents-via-interaction-trajecto.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.20363",
+    "published": "2026-06-18",
+    "title": "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining"
+  },
+  "2606.28277": {
+    "abs_url": "https://arxiv.org/abs/2606.28277",
+    "authors": [
+      "Rajesh Jayaram",
+      "Drew Tyler",
+      "David Woodruff",
+      "Corinna Cortes",
+      "Yossi Matias",
+      "Vahab Mirrokni",
+      "Vincent Cohen-Addad"
+    ],
+    "filename": "2606.28277_towards-automating-scientific-review-with-googles-paper-assistant-tool.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.28277",
+    "published": "2026-06-26",
+    "title": "Towards Automating Scientific Review with Google's Paper Assistant Tool"
+  },
+  "2606.31498": {
+    "abs_url": "https://arxiv.org/abs/2606.31498",
+    "authors": [
+      "Richard Kang",
+      "Yudho Diponegoro"
+    ],
+    "filename": "2606.31498_governance-gaps-in-agent-interoperability-protocols-what-mcp-a2a-and-acp-cannot.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31498",
+    "published": "2026-06-30",
+    "title": "Governance Gaps in Agent Interoperability Protocols: What MCP, A2A, and ACP Cannot Express"
+  },
+  "2607.05775": {
+    "abs_url": "https://arxiv.org/abs/2607.05775",
+    "authors": [
+      "Wael Albayaydh",
+      "Rui Zhao",
+      "Ivan Flechais"
+    ],
+    "filename": "2607.05775_beyond-the-leaderboard-a-synthesis-of-tool-use-planning-and-reasoning-failures-i.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.05775",
+    "published": "2026-07-07",
+    "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents"
+  },
+  "2607.06906": {
+    "abs_url": "https://arxiv.org/abs/2607.06906",
+    "authors": [
+      "Muayad Sayed Ali",
+      "Aliaksandra Novik",
+      "Anji Boddupally",
+      "Artem Yavorskyi",
+      "Chris Nickerson",
+      "Daniel Rica",
+      "Emily DuGranrut",
+      "Felix Leung",
+      "Garrett Prince",
+      "Grace Barnett",
+      "Heath Robinson",
+      "Hosain Al Ahmad",
+      "Jesse Resnick",
+      "Juan Carlos Farah",
+      "Jyothi Swaroop Meruga",
+      "Leonid Kuznetsov",
+      "Luke Gorham",
+      "Marie Schmoll",
+      "Michael Paciullo",
+      "Saumya Das",
+      "Sharath Sheripally",
+      "Tommy Griscom",
+      "Mykyta Osadchyi",
+      "Neha Mantri",
+      "Nick Westrum",
+      "Olivia Benowitz",
+      "Parikshith Kulkarni",
+      "Radik Chernyshov",
+      "Rakshith Vasudev",
+      "Rohith Nadimpally",
+      "Vikas Gangadevi",
+      "Waseem AlShikh"
+    ],
+    "filename": "2607.06906_the-harness-effect-how-orchestration-design-sets-the-token-economics-of-enterpri.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06906",
+    "published": "2026-07-08",
+    "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI"
+  },
+  "2607.08066": {
+    "abs_url": "https://arxiv.org/abs/2607.08066",
+    "authors": [
+      "Jennifer Za",
+      "Julija Bainiaksina",
+      "Nikita Ostrovsky",
+      "Tanush Chopra",
+      "Victoria Krakovna"
+    ],
+    "filename": "2607.08066_persuasion-attacks-can-decrease-effectiveness-of-cot-monitoring.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08066",
+    "published": "2026-07-09",
+    "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring"
+  },
+  "2607.11250": {
+    "abs_url": "https://arxiv.org/abs/2607.11250",
+    "authors": [
+      "Hyeong Kyu Choi",
+      "Jiatong Li",
+      "Wendi Li",
+      "Xin Eric Wang",
+      "Sharon Li"
+    ],
+    "filename": "2607.11250_multi-agent-llms-fail-to-explore-each-other.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.11250",
+    "published": "2026-07-13",
+    "title": "Multi-Agent LLMs Fail to Explore Each Other"
+  },
+  "2607.11881": {
+    "abs_url": "https://arxiv.org/abs/2607.11881",
+    "authors": [
+      "Gabrielle Kaili-May Liu",
+      "Areeb Gani",
+      "Jacqueline Lu",
+      "Jordan Thomas",
+      "Mark Steyvers",
+      "Arman Cohan"
+    ],
+    "filename": "2607.11881_metacognition-in-llms-foundations-progress-and-opportunities.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.11881",
+    "published": "2026-07-13",
+    "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities"
+  },
+  "2607.12227": {
+    "abs_url": "https://arxiv.org/abs/2607.12227",
+    "authors": [
+      "Yike Wang",
+      "Huaisheng Zhu",
+      "Zhengyu Hu",
+      "Yige Yuan",
+      "Zhengyu Chen",
+      "Shakti Senthil",
+      "Hannaneh Hajishirzi",
+      "Yulia Tsvetkov",
+      "Pradeep Dasigi",
+      "Teng Xiao"
+    ],
+    "filename": "2607.12227_rethinking-the-evaluation-of-harness-evolution-for-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.12227",
+    "published": "2026-07-14",
+    "title": "Rethinking the Evaluation of Harness Evolution for Agents"
+  },
+  "2607.13285": {
+    "abs_url": "https://arxiv.org/abs/2607.13285",
+    "authors": [
+      "Ruhan Wang",
+      "Yucheng Shi",
+      "Zongxia Li",
+      "Zhongzhi Li",
+      "Yue Yu",
+      "Junyao Yang",
+      "Kishan Panaganti",
+      "Haitao Mi",
+      "Dongruo Zhou",
+      " Leoweiliang"
+    ],
+    "filename": "2607.13285_harness-handbook-making-evolving-agent-harnesses-readablenavigable-and-editable.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.13285",
+    "published": "2026-07-14",
+    "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable"
+  },
+  "2607.14275": {
+    "abs_url": "https://arxiv.org/abs/2607.14275",
+    "authors": [
+      "Fouad Bousetouane"
+    ],
+    "filename": "2607.14275_ai-agents-do-not-fail-alonethe-context-fails-first.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.14275",
+    "published": "2026-07-15",
+    "title": "AI Agents Do Not Fail Alone:The Context Fails First"
+  },
+  "2607.14611": {
+    "abs_url": "https://arxiv.org/abs/2607.14611",
+    "authors": [
+      "Soham Gadgil",
+      "David Alexander",
+      "Sai Sunku",
+      "Franziska Roesner"
+    ],
+    "filename": "2607.14611_bad-memory-evaluating-prompt-injection-risks-from-memory-in-agentic-systems.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.14611",
+    "published": "2026-07-16",
+    "title": "Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems"
+  },
+  "2607.17352": {
+    "abs_url": "https://arxiv.org/abs/2607.17352",
+    "authors": [
+      "Yuqing Li",
+      "Zeguan Wu",
+      "Yu Gan",
+      "Junyu Liu"
+    ],
+    "filename": "2607.17352_self-modifying-lean-proof-agents-with-verifier-grounded-benchmark-coevolution.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.17352",
+    "published": "2026-07-19",
+    "title": "Self-Modifying Lean Proof Agents with Verifier-Grounded Benchmark Coevolution"
+  },
+  "2607.17598": {
+    "abs_url": "https://arxiv.org/abs/2607.17598",
+    "authors": [
+      "Yifeng He",
+      "Yinzhe Zhao",
+      "Jicheng Wang",
+      "Hao Chen"
+    ],
+    "filename": "2607.17598_is-progressive-disclosure-all-you-need-for-long-context-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.17598",
+    "published": "2026-07-20",
+    "title": "Is Progressive Disclosure All You Need for Long-Context Agents?"
+  },
+  "2607.18476": {
+    "abs_url": "https://arxiv.org/abs/2607.18476",
+    "authors": [
+      "Tapan Parikh"
+    ],
+    "filename": "2607.18476_structured-output-collapses-answer-diversity-across-44-language-models.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.18476",
+    "published": "2026-07-20",
+    "title": "Structured Output Collapses Answer Diversity Across 44 Language Models"
+  },
+  "2607.20548": {
+    "abs_url": "https://arxiv.org/abs/2607.20548",
+    "authors": [
+      "Mikail Khona",
+      "Aditya Vavre",
+      "Boxiang Wang",
+      "Deyu Fu",
+      "Hao Wu",
+      "Mike Chrzanowski",
+      "Bryan Catanzaro",
+      "Dheevatsa Mudigere",
+      "Jeff Pool",
+      "Michael Lightstone",
+      "Mohammad Shoeybi",
+      "Mostofa Patwary",
+      "Nima Tajbakhsh",
+      "Tijmen Blankevoort"
+    ],
+    "filename": "2607.20548_soap-muon-and-beyond-pushing-llm-pretraining-scales.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.20548",
+    "published": "2026-07-13",
+    "title": "SOAP, Muon, and Beyond: Pushing LLM Pretraining Scales"
+  },
+  "2607.20709": {
+    "abs_url": "https://arxiv.org/abs/2607.20709",
+    "authors": [
+      "Paul Furgale",
+      "Severin Klingler",
+      "James Nolan",
+      "Matt Staats",
+      "Gaia Di Lorenzo",
+      "Elisa Martinez Abad",
+      "Christian Sch\u00fcller",
+      "Razvan Dinu",
+      "Alessio Devoto",
+      "Pascal Berard",
+      "Gal Kaplun",
+      "Elad Sarafian",
+      "Riccardo Roveri",
+      "Leon Derczynski",
+      "Ricardo Silveira Cabral"
+    ],
+    "filename": "2607.20709_nvidia-labs-oo-agents-native-python-object-oriented-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.20709",
+    "published": "2026-07-22",
+    "title": "NVIDIA-labs OO Agents: Native Python Object-Oriented Agents"
+  },
+  "2607.21503": {
+    "abs_url": "https://arxiv.org/abs/2607.21503",
+    "authors": [
+      "Gaurav Dadhich"
+    ],
+    "filename": "2607.21503_agentic-context-management-solving-agent-memory-and-cost-by-treating-them-as-lif.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.21503",
+    "published": "2026-07-23",
+    "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems"
+  },
+  "2607.21557": {
+    "abs_url": "https://arxiv.org/abs/2607.21557",
+    "authors": [
+      "Xiao Yu",
+      "Baolin Peng",
+      "Ruize Xu",
+      "Hao Zou",
+      "Qianhui Wu",
+      "Hao Cheng",
+      "Wenlin Yao",
+      "Nikhil Singh",
+      "Zhou Yu",
+      "Jianfeng Gao"
+    ],
+    "filename": "2607.21557_openforgerl-train-harness-native-agents-in-any-environment.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.21557",
+    "published": "2026-07-23",
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment"
+  },
+  "2607.21627": {
+    "abs_url": "https://arxiv.org/abs/2607.21627",
+    "authors": [
+      "Xiaoyang Cao",
+      "Siddarth Srinivasan",
+      "Michiel A. Bakker"
+    ],
+    "filename": "2607.21627_do-modules-stay-in-their-lane-role-drift-in-compound-llm-systems.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.21627",
+    "published": "2026-07-07",
+    "title": "Do Modules Stay in Their Lane? Role Drift in Compound LLM Systems"
+  },
+  "2607.21653": {
+    "abs_url": "https://arxiv.org/abs/2607.21653",
+    "authors": [
+      "Jian Hu",
+      "Huiying Li",
+      "Hao Zhang",
+      "Binfeng Xu",
+      "Yifan Zhang",
+      "Shaokun Zhang",
+      "Hemil Desai",
+      "Michael Demoret",
+      "Pavlo Molchanov",
+      "Jan Kautz",
+      "Yi Dong"
+    ],
+    "filename": "2607.21653_molt-a-scalable-pytorch-native-training-framework-for-agentic-reinforcement-lear.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.21653",
+    "published": "2026-07-22",
+    "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning"
+  },
+  "2607.22520": {
+    "abs_url": "https://arxiv.org/abs/2607.22520",
+    "authors": [
+      "Darshan Tank",
+      "Baran Nama"
+    ],
+    "filename": "2607.22520_the-regression-tax-decomposing-why-skills-help-and-hurt-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.22520",
+    "published": "2026-07-24",
+    "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents"
+  },
+  "2607.22917": {
+    "abs_url": "https://arxiv.org/abs/2607.22917",
+    "authors": [
+      "Shouren Wang"
+    ],
+    "filename": "2607.22917_agent-team-work-zone-an-automated-persistent-workspace-for-long-lived-claude-cod.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.22917",
+    "published": "2026-07-24",
+    "title": "Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams"
+  },
+  "2607.22925": {
+    "abs_url": "https://arxiv.org/abs/2607.22925",
+    "authors": [
+      "Vatsal Baherwani",
+      "Tom Goldstein",
+      "Ashwinee Panda"
+    ],
+    "filename": "2607.22925_not-all-llm-reasoning-is-visible-in-the-chain-of-thought.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.22925",
+    "published": "2026-07-24",
+    "title": "Not All LLM Reasoning is Visible in the Chain-of-Thought"
+  },
+  "2607.23809": {
+    "abs_url": "https://arxiv.org/abs/2607.23809",
+    "authors": [
+      "Xiaochuan Li",
+      "Ryan Ming",
+      "Meng Chu",
+      "Shuai Shao",
+      "Rong Jin",
+      "Chenyan Xiong"
+    ],
+    "filename": "2607.23809_acm-agentic-context-management-for-long-horizon-tasks.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.23809",
+    "published": "2026-07-26",
+    "title": "ACM: Agentic Context Management for Long Horizon Tasks"
+  },
+  "2607.25398": {
+    "abs_url": "https://arxiv.org/abs/2607.25398",
+    "authors": [
+      "Liudas Panavas",
+      "Sebastian Minus",
+      "Bradley Monton",
+      "Derek Ray",
+      "Suhaas Garre",
+      "Sushant Mehta",
+      "Edwin Chen"
+    ],
+    "filename": "2607.25398_handbookmd-a-benchmark-for-long-context-agentic-instruction-following.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.25398",
+    "published": "2026-07-28",
+    "title": "HANDBOOK.md: A Benchmark for Long-Context Agentic Instruction Following"
+  },
+  "2607.26375": {
+    "abs_url": "https://arxiv.org/abs/2607.26375",
+    "authors": [
+      "Nishant Balepur",
+      "Connor Baumler",
+      "Valerie Chen",
+      "Eunsol Choi",
+      "Rachel Rudinger",
+      "Jordan Lee Boyd-Graber"
+    ],
+    "filename": "2607.26375_impaired-programming-coding-agents-improve-productivity-but-harm-understanding.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26375",
+    "published": "2026-07-29",
+    "title": "(Im)Paired Programming: Coding Agents Improve Productivity but Harm Understanding"
+  },
+  "2607.27250": {
+    "abs_url": "https://arxiv.org/abs/2607.27250",
+    "authors": [
+      "Prakhar Khatri"
+    ],
+    "filename": "2607.27250_do-context-files-help-coding-agents-a-two-agent-ablation-study-on-real-repositor.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.27250",
+    "published": "2026-07-28",
+    "title": "Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories"
+  },
+  "2607.27497": {
+    "abs_url": "https://arxiv.org/abs/2607.27497",
+    "authors": [
+      "Lucio M. Dery",
+      "Benedict Aaron Tjandra",
+      "Siavash Samiei",
+      "Adhiguna Kuncoro",
+      "Zohar Yahav",
+      "Jiajun Shen",
+      "Arthur Szlam"
+    ],
+    "filename": "2607.27497_skillsmith-learning-to-compose-parametric-skills-and-textual-knowledge.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.27497",
+    "published": "2026-07-29",
+    "title": "SkillSmith: Learning to Compose Parametric Skills and Textual Knowledge"
+  },
+  "2607.27853": {
+    "abs_url": "https://arxiv.org/abs/2607.27853",
+    "authors": [
+      "Yijia Xiao",
+      "Rujun Han",
+      "Yanfei Chen",
+      "Zifeng Wang",
+      "Ke Jiang",
+      "Zhongying CuiZhu",
+      "Vishy Tirumalashetty",
+      "Wei Wang",
+      "Burak Gokturk",
+      "Tomas Pfister",
+      "Chen-Yu Lee"
+    ],
+    "filename": "2607.27853_financeharness-autonomous-financial-deep-research-framework.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.27853",
+    "published": "2026-07-30",
+    "title": "FinanceHarness: Autonomous Financial Deep Research Framework"
+  },
+  "2607.28430": {
+    "abs_url": "https://arxiv.org/abs/2607.28430",
+    "authors": [
+      "Xinxing Ren",
+      "Qianbo Zang",
+      "Ziyan Wang",
+      "Caelum Forder",
+      "Suman Deb",
+      "Peter Carroll",
+      "Zekun Guo"
+    ],
+    "filename": "2607.28430_agentradio-passive-awareness-for-long-horizon-multi-agent-collaboration.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.28430",
+    "published": "2026-07-30",
+    "title": "AgentRadio: Passive Awareness for Long-Horizon Multi-Agent Collaboration"
+  },
+  "2607.28568": {
+    "abs_url": "https://arxiv.org/abs/2607.28568",
+    "authors": [
+      "Junlin Yang",
+      "Che Jiang",
+      "Yu Fu",
+      "Tianwei Luo",
+      "Can Ren",
+      "Weizhi Wang",
+      "Kaikai Zhao",
+      "Hongyi Liu",
+      "Yuxin Zuo",
+      "Yuru Wang",
+      "Yuchen Fan",
+      "Kai Tian",
+      "Zhenzhao Yuan",
+      "Xiaojian Lin",
+      "Li Sheng",
+      "Rushi Qiang",
+      "Guoli Jia",
+      "Xingtai Lv",
+      "Ermo Hua",
+      "Dianqiao Lei",
+      "Youbang Sun",
+      "Ning Ding",
+      "Bowen Zhou",
+      "Kaiyan Zhang"
+    ],
+    "filename": "2607.28568_frontis-ma1-training-an-ai4ai-model-towards-recursive-self-improvement-in-machin.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.28568",
+    "published": "2026-07-30",
+    "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering"
+  },
+  "2607.28576": {
+    "abs_url": "https://arxiv.org/abs/2607.28576",
+    "authors": [
+      "Iliya Mirzaei"
+    ],
+    "filename": "2607.28576_sample-more-reflect-less-self-refine-and-reflexion-lose-to-repeated-sampling-at.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.28576",
+    "published": "2026-07-30",
+    "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B"
+  },
+  "2607.28802": {
+    "abs_url": "https://arxiv.org/abs/2607.28802",
+    "authors": [
+      "Harsh Raj",
+      "Vipul Gupta",
+      "Anas Mahmoud",
+      "Razvan-Gabriel Dumitru",
+      "Darvin Yi",
+      "Aakash Sabharwal",
+      "Yunzhong He"
+    ],
+    "filename": "2607.28802_model-or-harness-an-interaction-centric-taxonomy-for-localizing-agent-failures.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.28802",
+    "published": "2026-07-30",
+    "title": "Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures"
+  },
+  "2607.28956": {
+    "abs_url": "https://arxiv.org/abs/2607.28956",
+    "authors": [
+      "Qiming Shi",
+      "Yulong Tao",
+      "Linbo Jin",
+      "Zhaolu Kang",
+      "Yibo Dou",
+      "Jiawen Zhu",
+      "Tianjun Pan",
+      "Shaokang Fu",
+      "Chengyu Wang",
+      "Siyue Li",
+      "Yaping Cheng",
+      "Di Weng",
+      "Chengfu Huo"
+    ],
+    "filename": "2607.28956_merchantbench-benchmarking-llm-agents-for-long-term-coherence-in-e-commerce-oper.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.28956",
+    "published": "2026-07-31",
+    "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations"
+  },
+  "2607.29377": {
+    "abs_url": "https://arxiv.org/abs/2607.29377",
+    "authors": [
+      "Yilin Xiao",
+      "Zhehan Zhu",
+      "Yujing Zhang",
+      "Jin Chen",
+      "Zijin Hong",
+      "Luyao Zhuang",
+      "Qinggang Zhang",
+      "Shengyuan Chen",
+      "Xiaocao Ouyang",
+      "Lingfei Ren",
+      "Xiao Huang"
+    ],
+    "filename": "2607.29377_zero-mem-zero-token-memory-operations-for-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.29377",
+    "published": "2026-07-31",
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents"
+  },
+  "2607.29678": {
+    "abs_url": "https://arxiv.org/abs/2607.29678",
+    "authors": [
+      "Zhenyu Zhang",
+      "Zhichao Cao"
+    ],
+    "filename": "2607.29678_toktier-exact-stateful-cpugpu-tokenization-for-agentic-llm-serving.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.29678",
+    "published": "2026-07-31",
+    "title": "TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving"
+  },
+  "2608.02276": {
+    "abs_url": "https://arxiv.org/abs/2608.02276",
+    "authors": [
+      "Shuai Shao",
+      "Kangning Zhang",
+      "Qingyao Li",
+      "Shijian Wang",
+      "Hao Wang",
+      "Wenxiang Jiao",
+      "Yuan Lu",
+      "Yi Guo",
+      "Weiwen Liu",
+      "Weinan Zhang"
+    ],
+    "filename": "2608.02276_harness-r1-learning-to-edit-executable-runtime-harnesses-from-agent-failure-traj.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.02276",
+    "published": "2026-08-03",
+    "title": "Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories"
+  },
+  "2608.03451": {
+    "abs_url": "https://arxiv.org/abs/2608.03451",
+    "authors": [
+      "Boyan Li",
+      "Zhuowen Liang",
+      "Yupeng Xie",
+      "Xiaotian Lin",
+      "Tianqi Luo",
+      "Xinyu Liu",
+      "Yizhang Zhu",
+      "Zhangyang Peng",
+      "Yuan Li",
+      "Zhengxuan Zhang",
+      "Jiayi Zhang",
+      "Nan Tang",
+      "Guoliang Li",
+      "Yuyu Luo"
+    ],
+    "filename": "2608.03451_dataspace-benchmarking-data-agents-for-verifiable-analytics-over-heterogeneous-w.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03451",
+    "published": "2026-08-04",
+    "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces"
+  },
+  "2608.05446": {
+    "abs_url": "https://arxiv.org/abs/2608.05446",
+    "authors": [
+      "Xuying Ning",
+      "Dongqi Fu",
+      "Tianxin Wei",
+      "Hanqing Zeng",
+      "Yuanchen Bei",
+      "Bingxuan Li",
+      "Zihao Li",
+      "Qifan Wang",
+      "Xiang Shen",
+      "Yifan Wu",
+      "Jiayi Liu",
+      "Hong Li",
+      "Yinglong Xia",
+      "Xiangjun Fan",
+      "Hanghang Tong",
+      "Jingrui He"
+    ],
+    "filename": "2608.05446_evoharness-rl-learning-self-evolving-runtime-harness-for-long-horizon-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.05446",
+    "published": "2026-08-05",
+    "title": "EvoHarness-RL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents"
+  },
+  "2608.06370": {
+    "abs_url": "https://arxiv.org/abs/2608.06370",
+    "authors": [
+      "Ishan Patel",
+      "Sahil Sen",
+      "Elias Lumer",
+      "Vamse Kumar Subbiah"
+    ],
+    "filename": "2608.06370_the-bitter-lesson-of-tool-calling.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.06370",
+    "published": "2026-08-06",
+    "title": "The Bitter Lesson of Tool Calling"
+  },
+  "2608.06871": {
+    "abs_url": "https://arxiv.org/abs/2608.06871",
+    "authors": [
+      "Yingtao Tian"
+    ],
+    "filename": "2608.06871_cedar-agent-orchestrated-tree-search-for-goal-directed-optimization-of-complex-s.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.06871",
+    "published": "2026-08-07",
+    "title": "CEDAR: Agent-Orchestrated Tree Search for Goal-Directed Optimization of Complex Systems"
+  },
+  "2608.07222": {
+    "abs_url": "https://arxiv.org/abs/2608.07222",
+    "authors": [
+      "Mathurin Videau",
+      "Badr Youbi-Idrissi",
+      "David Lopez-Paz",
+      "Kartik Ahuja"
+    ],
+    "filename": "2608.07222_skaling-chinchillas-exponents-meet-kaplans-coupling.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.07222",
+    "published": "2026-08-07",
+    "title": "Skaling: Chinchilla's Exponents Meet Kaplan's Coupling"
+  },
+  "2608.07885": {
+    "abs_url": "https://arxiv.org/abs/2608.07885",
+    "authors": [
+      "Agamdeep Singh",
+      "Srishti Gautam",
+      "Priyanshu Gupta",
+      "Nikita Mehrotra",
+      "Tanmay Bakshi",
+      "Sumit Gulwani"
+    ],
+    "filename": "2608.07885_reason-wide-not-deep-amortizing-the-reasoning-premium-into-distilled-skills.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.07885",
+    "published": "2026-08-08",
+    "title": "Reason Wide, Not Deep: Amortizing the Reasoning Premium into Distilled Skills"
+  },
+  "2608.09874": {
+    "abs_url": "https://arxiv.org/abs/2608.09874",
+    "authors": [
+      "Abraham Gonzalez",
+      "Raghav Gupta",
+      "Akanksha Jain",
+      "Hanna Alam",
+      "Alexander Novikov",
+      "Po-Sen Huang",
+      "Matej Balog",
+      "Marvin Eisenberger",
+      "Sergey Shirobokov",
+      "Ng\u00e2n V\u0169",
+      "Hank Levy",
+      "Borivoje Nikoli\u0107",
+      "Sagar Karandikar",
+      "Martin Dixon",
+      "Parthasarathy Ranganathan"
+    ],
+    "filename": "2608.09874_archagent-v2-a-case-study-with-the-data-prefetching-championship.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.09874",
+    "published": "2026-08-10",
+    "title": "ArchAgent v2: A Case Study with the Data Prefetching Championship"
+  },
+  "2608.10218": {
+    "abs_url": "https://arxiv.org/abs/2608.10218",
+    "authors": [
+      "Vassilis Papadopoulos",
+      "McNair Shah",
+      "Sam Zimmerman",
+      "Jack Lindsey"
+    ],
+    "filename": "2608.10218_mind-viruses-self-propagating-ideas-in-multi-agent-llm-systems.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.10218",
+    "published": "2026-08-10",
+    "title": "Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems"
+  },
+  "2608.11095": {
+    "abs_url": "https://arxiv.org/abs/2608.11095",
+    "authors": [
+      "Kushal Chakrabarti"
+    ],
+    "filename": "2608.11095_why-does-claudemd-keep-growing-catastrophic-remembering-in-agentic-coding.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.11095",
+    "published": "2026-08-11",
+    "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in Agentic Coding"
+  },
+  "2608.11323": {
+    "abs_url": "https://arxiv.org/abs/2608.11323",
+    "authors": [
+      "Vasundra Srinivasan"
+    ],
+    "filename": "2608.11323_deployment-decision-reliability-a-generalizability-theory-framework-for-sizing-l.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.11323",
+    "published": "2026-08-11",
+    "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations"
+  },
+  "2608.12610": {
+    "abs_url": "https://arxiv.org/abs/2608.12610",
+    "authors": [
+      "Li Yin",
+      "Zhi Li",
+      "Zhan Shi",
+      "Haoran Zhang",
+      "Haebin Seong",
+      " Zhangyang",
+      " Wang"
+    ],
+    "filename": "2608.12610_skills-attention-is-all-you-have.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.12610",
+    "published": "2026-08-12",
+    "title": "@skills: Attention is all you have"
+  },
+  "2608.12645": {
+    "abs_url": "https://arxiv.org/abs/2608.12645",
+    "authors": [
+      "Justin Zhao",
+      "Himaghna Bhattacharjee",
+      "Hannah Korevaar",
+      "Bhaktipriya Radharapu",
+      "Khalid El-Arini"
+    ],
+    "filename": "2608.12645_jagged-judges-epistemic-stability-under-perturbation-pressure-and-persistence.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.12645",
+    "published": "2026-08-12",
+    "title": "Jagged Judges: Epistemic Stability Under Perturbation, Pressure, and Persistence"
+  },
+  "2608.13560": {
+    "abs_url": "https://arxiv.org/abs/2608.13560",
+    "authors": [
+      "Yaxin Luo",
+      "Haobin Jiang",
+      "Jialv Zou",
+      "Xu Huang",
+      "Wenhao Yan",
+      "Haodong Li",
+      "Zhengrong Yue",
+      "Jing Li",
+      "Xiaofu Chen",
+      "Xiaohan Zhao",
+      "Jiacheng Liu",
+      "Jiacheng Cui",
+      "Zhiqiang Shen",
+      "Xiaotong Li"
+    ],
+    "filename": "2608.13560_autodesign-meta-harness-optimization-for-long-horizon-agentic-design.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.13560",
+    "published": "2026-08-13",
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design"
+  },
+  "2608.13940": {
+    "abs_url": "https://arxiv.org/abs/2608.13940",
+    "authors": [
+      "Thomas Simon Foster",
+      "Bassel Al Omari",
+      "Tingchen Fu",
+      "Thomas Mann",
+      "Carl Domond",
+      "Lucia Cipolina-Kun",
+      "Bhavul Gauri",
+      "Muna Aghamelu",
+      "Alexander D. Goldie",
+      "Eryk Helenowski",
+      "Jean-Christophe Gagnon-Audet",
+      "Alberto Pepe",
+      "Saba Nazir",
+      "Daniel Izcovich",
+      "Noam Levi",
+      "Rishi Hazra",
+      "Karen Hambardzumyan",
+      "Nicolas Baldwin",
+      "Xian Li",
+      "Martin Josifoski",
+      "Paris Giampouras",
+      "Masoud Jalili Sabet",
+      "Anya Sims",
+      "Hela Momand",
+      "Tatiana Shavrina",
+      "Despoina Magka",
+      "Jason Weston",
+      "Yulin Wang",
+      "Anirudh Goyal",
+      "Jo\u00e3o Henriques",
+      "Yoram Bachrach",
+      "Emily McMilin",
+      "Jakob Nicolaus Foerster"
+    ],
+    "filename": "2608.13940_ai-research-preference-models.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.13940",
+    "published": "2026-08-14",
+    "title": "AI Research Preference Models"
+  },
+  "2608.14036": {
+    "abs_url": "https://arxiv.org/abs/2608.14036",
+    "authors": [
+      "Zhiyuan Jiang",
+      "Fangrui Huang",
+      "Hanwen Xing",
+      "Xander Wu",
+      "Yipeng Gao",
+      "Rui Cao",
+      "Mengdi Wang",
+      "Shilong Liu",
+      "Yijiang Li"
+    ],
+    "filename": "2608.14036_demystifying-agent-skills-why-they-work-until-they-dont.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.14036",
+    "published": "2026-08-14",
+    "title": "Demystifying Agent Skills: Why They Work-Until They Don't"
+  },
+  "2608.17981": {
+    "abs_url": "https://arxiv.org/abs/2608.17981",
+    "authors": [
+      "Michael C. Mozer",
+      "Shoaib Ahmed Siddiqui",
+      "Danny Sawyer",
+      "Sunny Sanyal",
+      "Rosanne Liu"
+    ],
+    "filename": "2608.17981_recirculation.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.17981",
+    "published": "2026-08-18",
+    "title": "Recirculation"
+  },
+  "2608.18300": {
+    "abs_url": "https://arxiv.org/abs/2608.18300",
+    "authors": [
+      "Emma Yanyang Kong",
+      "JJ Tan",
+      "Ishan Gupta",
+      "Lars Olds",
+      "Claire Campbell",
+      "David Fagnan",
+      "Ratna Kavuri",
+      "Veli Balin",
+      "Rohan Gosain",
+      "Louis Garcia",
+      "Minsu Jang"
+    ],
+    "filename": "2608.18300_the-lifecycle-of-llm-as-a-judge-for-large-scale-recommendation-explanations.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.18300",
+    "published": "2026-08-18",
+    "title": "The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations"
+  },
+  "2608.19013": {
+    "abs_url": "https://arxiv.org/abs/2608.19013",
+    "authors": [
+      "Borui Kang",
+      "Jinrui Gu",
+      "Junhan Lv",
+      "Wenbin Li",
+      "Lei Wang",
+      "Yang Gao"
+    ],
+    "filename": "2608.19013_harness-continual-learning-continual-adaptation-beyond-model-parameters.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.19013",
+    "published": "2026-08-19",
+    "title": "Harness Continual Learning: Continual Adaptation Beyond Model Parameters"
+  },
+  "2608.19202": {
+    "abs_url": "https://arxiv.org/abs/2608.19202",
+    "authors": [
+      "Sanchayan Dutta",
+      "Sai Niranjan Ramachandran",
+      "Suvrit Sra"
+    ],
+    "filename": "2608.19202_active-inference-as-context-acquisition-for-ai-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.19202",
+    "published": "2026-06-08",
+    "title": "Active Inference as Context Acquisition for AI Agents"
+  },
+  "2608.19741": {
+    "abs_url": "https://arxiv.org/abs/2608.19741",
+    "authors": [
+      "Zhuochun Li",
+      "Youngmin Ko",
+      "Ali Keramati",
+      "Nicola Ferri",
+      "Susana Palmaz Lopez Pelaez",
+      "Liang-Chun Tsai",
+      "Calvin Wang",
+      "Mirco Milletari",
+      "Tuhin Kundu",
+      "Vadim Smolyakov",
+      "Kjartan Olafsson",
+      "Tommy Guy"
+    ],
+    "filename": "2608.19741_one-success-isnt-reliability-thinkingbox-a-sandbox-and-benchmark-for-agents-in-s.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.19741",
+    "published": "2026-08-20",
+    "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows"
+  },
+  "2608.19880": {
+    "abs_url": "https://arxiv.org/abs/2608.19880",
+    "authors": [
+      "Chengsong Huang",
+      "Zifeng Wang",
+      "Rujun Han",
+      "Jun Yan",
+      "Yanfei Chen",
+      "Zoey CuiZhu",
+      "Ke Jiang",
+      "Peng Xia",
+      "Han Yu",
+      "Yufan Zhuang",
+      "Yifei Ming",
+      "Jiaqi Pan",
+      "Bhavana Dalvi Mishra",
+      "Jiaxin Huang",
+      "Burak Gokturk",
+      "Tomas Pfister",
+      "Chen-Yu Lee"
+    ],
+    "filename": "2608.19880_envharness-awakening-static-worlds-for-agent-learning.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.19880",
+    "published": "2026-08-20",
+    "title": "EnvHarness: Awakening Static Worlds for Agent Learning"
+  },
+  "2608.20316": {
+    "abs_url": "https://arxiv.org/abs/2608.20316",
+    "authors": [
+      "Adam Fisch",
+      "Shubhendu Trivedi",
+      "Fantine Huot",
+      "William W. Cohen",
+      "Michael Kaisers",
+      "Mirella Lapata",
+      "Kate Larson",
+      "Jacob Eisenstein"
+    ],
+    "filename": "2608.20316_pandoras-ai-model-routing-box-efficient-allocation-with-costly-value-estimation.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.20316",
+    "published": "2026-08-20",
+    "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation"
+  },
+  "2608.20319": {
+    "abs_url": "https://arxiv.org/abs/2608.20319",
+    "authors": [
+      "Yucheng Jiang",
+      "Zora Zhiruo Wang",
+      "Ruishi Chen",
+      "Diyi Yang"
+    ],
+    "filename": "2608.20319_inducing-task-models-from-computer-use-traces.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.20319",
+    "published": "2026-08-20",
+    "title": "Inducing Task Models from Computer-Use Traces"
+  },
+  "2608.20614": {
+    "abs_url": "https://arxiv.org/abs/2608.20614",
+    "authors": [
+      "Christopher Kevin",
+      "Narendran Raghavan",
+      "Jean-Francois Puget",
+      "Roshni Malani",
+      "Meghana Puvvadi",
+      "Moshe Abramovitch",
+      "Mohit Gupta",
+      "Rama Akkiraju",
+      "Subodh Prabhu",
+      "Yogesh Dangi",
+      "Wei Luo",
+      "Seong Hee Lee"
+    ],
+    "filename": "2608.20614_evaluating-skills-not-just-agents-agentic-continuous-evaluation-of-skills.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.20614",
+    "published": "2026-08-20",
+    "title": "Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills"
+  },
+  "2608.20622": {
+    "abs_url": "https://arxiv.org/abs/2608.20622",
+    "authors": [
+      "George Juraj Salapa"
+    ],
+    "filename": "2608.20622_applying-anthropic-primitives-at-large-enterprises-harness-paradigm-for-knowledg.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.20622",
+    "published": "2026-08-20",
+    "title": "Applying Anthropic Primitives at Large Enterprises: Harness Paradigm for Knowledge Work"
+  },
+  "2608.20631": {
+    "abs_url": "https://arxiv.org/abs/2608.20631",
+    "authors": [
+      "Quang Dao",
+      "Purvi Kathalkar",
+      "Kenneth Eaton"
+    ],
+    "filename": "2608.20631_weighted-memory-tree-remembering-what-matters-for-long-horizon-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.20631",
+    "published": "2026-08-21",
+    "title": "Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents"
+  },
+  "2608.22752": {
+    "abs_url": "https://arxiv.org/abs/2608.22752",
+    "authors": [
+      "Saber Zerhoudi",
+      "Jelena Mitrovic",
+      "Michael Granitzer"
+    ],
+    "filename": "2608.22752_the-compaction-cliff-in-long-running-ai-agent-memory.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.22752",
+    "published": "2026-08-24",
+    "title": "The Compaction Cliff in Long-Running AI Agent Memory"
+  },
+  "2608.23041": {
+    "abs_url": "https://arxiv.org/abs/2608.23041",
+    "authors": [
+      "Sungho Park",
+      "Wonjoong Kim",
+      "Rongyuan Tan",
+      "Jue Zhang",
+      "Wook-Shin Han",
+      "Pengfei Gao",
+      "Chanyoung Park",
+      "Yongqiang Yao",
+      "Rao Fu",
+      "Elsie Nallipogu",
+      "Qingwei Lin",
+      "Saravan Rajmohan",
+      "Dongmei Zhang"
+    ],
+    "filename": "2608.23041_autosaddler-automatic-harness-optimization-with-durable-updates-from-agent-execu.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.23041",
+    "published": "2026-08-24",
+    "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces"
+  },
+  "2608.23067": {
+    "abs_url": "https://arxiv.org/abs/2608.23067",
+    "authors": [
+      "Ziyue Yang",
+      "Fan Ding"
+    ],
+    "filename": "2608.23067_signal-or-noise-a-benchmark-study-of-agent-skills-in-web-development.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.23067",
+    "published": "2026-08-24",
+    "title": "Signal or Noise? A Benchmark Study of Agent Skills in Web Development"
+  },
+  "2608.23552": {
+    "abs_url": "https://arxiv.org/abs/2608.23552",
+    "authors": [
+      "Seth Karten",
+      "Alex L. Zhang",
+      "Kevin Thomas",
+      "Sebastian M\u00fcller",
+      "Elie Bakouch",
+      "Daniel Auras",
+      "Mika Senghaas",
+      "Fares Obeid",
+      "Konstantin Dunas",
+      "Johannes Hagemann",
+      "Sami Jaghouar"
+    ],
+    "filename": "2608.23552_prime-agent-a-self-improving-rlm-harness.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.23552",
+    "published": "2026-08-24",
+    "title": "Prime Agent: A Self-Improving RLM Harness"
+  },
+  "2608.24358": {
+    "abs_url": "https://arxiv.org/abs/2608.24358",
+    "authors": [
+      "Roy Ganz",
+      "Mor Shpigel Nacson",
+      "Adi Kalyanpur",
+      "Ron Litman"
+    ],
+    "filename": "2608.24358_the-handoff-tax-continuing-non-native-trajectories-in-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.24358",
+    "published": "2026-08-25",
+    "title": "The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents"
+  },
+  "2608.24735": {
+    "abs_url": "https://arxiv.org/abs/2608.24735",
+    "authors": [
+      "Zae Myung Kim",
+      "Young-Jun Lee",
+      "Seungyeon Jwa",
+      "Dongyeop Kang"
+    ],
+    "filename": "2608.24735_metan-recursive-self-improvement-through-emergent-depth.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.24735",
+    "published": "2026-08-25",
+    "title": "Meta$^n$: Recursive Self-Improvement through Emergent Depth"
+  },
+  "2608.24876": {
+    "abs_url": "https://arxiv.org/abs/2608.24876",
+    "authors": [
+      "Zhaochen Yu",
+      "Yingcheng Wu",
+      "Zhenfei Yin",
+      "Kaiyuan Chen",
+      "Zhe Zhao",
+      "Mengdi Wang",
+      "Shuicheng Yan",
+      "Ling Yang"
+    ],
+    "filename": "2608.24876_recursive-experiential-working-memory-evolution-for-long-horizon-agent-harnesses.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.24876",
+    "published": "2026-08-25",
+    "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses"
+  },
+  "2608.25593": {
+    "abs_url": "https://arxiv.org/abs/2608.25593",
+    "authors": [
+      "Guibin Zhang",
+      "Leo Lu",
+      "Fangzhou Xie",
+      "Kang Zhu",
+      "Junhao Wang",
+      "Zhifei Xie",
+      "Zhaochen Yu",
+      "Zihang Liu",
+      "Zhongxiang Sun",
+      "Qiankun Li",
+      "Yue Liao",
+      "Heng Chang",
+      "Xiaobin Hu",
+      "Qibing Ren",
+      "Wangchunshu Zhou",
+      "Chuanrui Hu",
+      "Yafeng Deng",
+      "Shuicheng Yan"
+    ],
+    "filename": "2608.25593_jit-agent-scaling-harness-intelligence-via-just-in-time-harness-evolution.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.25593",
+    "published": "2026-08-26",
+    "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution"
+  },
+  "2608.25756": {
+    "abs_url": "https://arxiv.org/abs/2608.25756",
+    "authors": [
+      "Sadhika Malladi",
+      "Samy Jelassi",
+      "Dylan Foster",
+      "Jordan T. Ash",
+      "Akshay Krishnamurthy"
+    ],
+    "filename": "2608.25756_tailsft-filtered-fine-tuning-improves-post-training-performance.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.25756",
+    "published": "2026-08-26",
+    "title": "TailSFT: Filtered Fine-Tuning Improves Post-Training Performance"
+  },
+  "2608.26070": {
+    "abs_url": "https://arxiv.org/abs/2608.26070",
+    "authors": [
+      "Niklas Muennighoff",
+      "Zhengyang Wang",
+      "Zeyi Chen",
+      "Weijia Shi",
+      "Binyuan Hui",
+      "John Yang",
+      "Dapeng Jiang",
+      "Mika Senghaas",
+      "Fares Obeid",
+      "Johannes Hagemann",
+      "Sami Jaghouar",
+      "Ludwig Schmidt",
+      "Percy Liang",
+      "Jason Wei",
+      "Andrew Y. Ng",
+      "Luke Zettlemoyer",
+      "Yejin Choi",
+      "Mike Lewis"
+    ],
+    "filename": "2608.26070_prefix-sliding-for-efficient-test-time-scaling.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26070",
+    "published": "2026-08-26",
+    "title": "Prefix Sliding for efficient test-time scaling"
+  },
+  "2608.26131": {
+    "abs_url": "https://arxiv.org/abs/2608.26131",
+    "authors": [
+      "Ilija Subasic",
+      "Andrew Rabinovich",
+      "Zhao Chen"
+    ],
+    "filename": "2608.26131_evaluating-language-models-in-realistic-conversational-contexts.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26131",
+    "published": "2026-06-24",
+    "title": "Evaluating Language Models in Realistic Conversational Contexts"
+  },
+  "2608.26133": {
+    "abs_url": "https://arxiv.org/abs/2608.26133",
+    "authors": [
+      "Harish Karumuri",
+      "Mahesh Vemula",
+      "David Lopes Pegna"
+    ],
+    "filename": "2608.26133_agent-seer-synthesizing-scenarios-from-specification-understanding.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26133",
+    "published": "2026-06-24",
+    "title": "Agent Seer: Synthesizing Scenarios from Specification Understanding"
+  },
+  "2608.26263": {
+    "abs_url": "https://arxiv.org/abs/2608.26263",
+    "authors": [
+      "Sanket Badhe",
+      "Priyanka Tiwari",
+      "Jonghyun Chung"
+    ],
+    "filename": "2608.26263_skillstate-scalable-long-horizon-agent-skills.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26263",
+    "published": "2026-08-26",
+    "title": "SKILL.state: Scalable Long-Horizon Agent Skills"
+  },
+  "2608.26418": {
+    "abs_url": "https://arxiv.org/abs/2608.26418",
+    "authors": [
+      "Architect Labs"
+    ],
+    "filename": "2608.26418_redwood-a-frontier-ai-accelerator-designed-verified-and-deployed-from-scratch-in.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26418",
+    "published": "2026-08-26",
+    "title": "Redwood: A Frontier AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI"
+  },
+  "2608.26733": {
+    "abs_url": "https://arxiv.org/abs/2608.26733",
+    "authors": [
+      "Yu-Lin Tsai",
+      "Yu-An Lu",
+      "Ci-Yang Tsai",
+      "Muxi Lyu",
+      "Raluca Ada Popa",
+      "Chia-Mu Yu"
+    ],
+    "filename": "2608.26733_daydreaming-stealing-hidden-agent-skills-through-black-box-task-interaction.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26733",
+    "published": "2026-08-27",
+    "title": "Daydreaming: Stealing Hidden Agent Skills through Black-Box Task Interaction"
+  },
+  "2608.27454": {
+    "abs_url": "https://arxiv.org/abs/2608.27454",
+    "authors": [
+      "Liyan Tang",
+      "Cyrus Rashtchian",
+      "Chun-Sung Ferng",
+      "Andrew Tomkins",
+      "Da-Cheng Juan",
+      "Tu Vu"
+    ],
+    "filename": "2608.27454_wikiskill-compiling-agent-experience-into-persistent-knowledge-for-skill-evoluti.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.27454",
+    "published": "2026-08-27",
+    "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution"
+  },
+  "2608.28281": {
+    "abs_url": "https://arxiv.org/abs/2608.28281",
+    "authors": [
+      "Yi Wang",
+      "Haopeng Zhang",
+      "Chengxiang Huang",
+      "Rui Dai",
+      "Kaikui Liu",
+      "Piotr Koniusz",
+      "Xiangxiang Chu"
+    ],
+    "filename": "2608.28281_looparena-benchmarking-models-as-runtime-controllers-for-loop-engineering.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.28281",
+    "published": "2026-08-28",
+    "title": "LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering"
+  },
+  "2608.28978": {
+    "abs_url": "https://arxiv.org/abs/2608.28978",
+    "authors": [
+      "Theo Rusu",
+      "Sourena Khanzadeh",
+      "Manar Alalfi"
+    ],
+    "filename": "2608.28978_selective-forgetting-a-graph-based-memory-framework-for-long-term-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.28978",
+    "published": "2026-08-29",
+    "title": "Selective Forgetting: A Graph-Based Memory Framework for Long-Term LLM Agents"
+  },
+  "2608.29606": {
+    "abs_url": "https://arxiv.org/abs/2608.29606",
+    "authors": [
+      "Ming Wu",
+      "Pengyuan Zhu"
+    ],
+    "filename": "2608.29606_agent-zero-memory-provenance-aware-long-term-memory-for-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.29606",
+    "published": "2026-08-30",
+    "title": "Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents"
+  },
+  "2608.30730": {
+    "abs_url": "https://arxiv.org/abs/2608.30730",
+    "authors": [
+      "Wei Fan",
+      "Xinjie Shen",
+      "Xudong Guo",
+      "Jianhong Tu",
+      "Yang Su",
+      "Yinger Zhang",
+      "Lianghao Deng",
+      "Fengyu Wang",
+      "Baohua Dong",
+      "Yangqiu Song",
+      "Dayiheng Liu"
+    ],
+    "filename": "2608.30730_e-commerce-bench-evaluating-llm-agents-on-long-horizon-autonomous-business-opera.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.30730",
+    "published": "2026-08-31",
+    "title": "E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation"
+  },
+  "2608.30785": {
+    "abs_url": "https://arxiv.org/abs/2608.30785",
+    "authors": [
+      "Xiaofan Bai",
+      "Chao Liu",
+      "Hongqiang Lin",
+      "Di Wu",
+      "Mingli Song",
+      "Xuan Jin",
+      "Xipeng Cao",
+      "Yuhong Li"
+    ],
+    "filename": "2608.30785_skillzip-pro-execution-aware-dynamic-compression-of-progressively-loaded-skills.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.30785",
+    "published": "2026-08-31",
+    "title": "SkillZip Pro: Execution-Aware Dynamic Compression of Progressively Loaded Skills for Self-Evolving Agents"
+  },
+  "2609.00546": {
+    "abs_url": "https://arxiv.org/abs/2609.00546",
+    "authors": [
+      "Zhenyu Zhao",
+      "Roy Zhao"
+    ],
+    "filename": "2609.00546_runtime-independent-persistent-agents-preserving-identity-memory-and-code-across.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.00546",
+    "published": "2026-09-01",
+    "title": "Runtime-Independent Persistent Agents: Preserving Identity, Memory, and Code Across Models, Harnesses, and Servers"
+  },
+  "2609.01437": {
+    "abs_url": "https://arxiv.org/abs/2609.01437",
+    "authors": [
+      "Yuhao Wu",
+      "Jingyuan Zhang",
+      "Jiajun Shi",
+      "Xinping Lei",
+      "Qingshui Gu",
+      "Yuxuan Zhang",
+      "Zexuan Wang",
+      "Chen He",
+      "Chen Huang",
+      "Maojia Song",
+      "Zhiyuan Zeng",
+      "Shaowen Wang",
+      "Jinkai Liu",
+      "Yunfeng Shi",
+      "Jiaheng Liu",
+      "Shen Yan",
+      "Wenhao Huang",
+      "Ge Zhang",
+      "Wenxuan Zhang"
+    ],
+    "filename": "2609.01437_harnessdev-can-llms-create-and-evolve-their-own-agent-harness.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.01437",
+    "published": "2026-09-01",
+    "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?"
+  },
+  "2609.01481": {
+    "abs_url": "https://arxiv.org/abs/2609.01481",
+    "authors": [
+      "Haoyang Yan",
+      "Min-le Su",
+      "Hangfan Zhang",
+      "Zhanhao Li",
+      "Chen Zhang",
+      "Shao Zhang",
+      "Yang Chen",
+      "Lei Bai",
+      "Shuyue Hu"
+    ],
+    "filename": "2609.01481_harness-of-harness-multi-day-autonomous-software-development-with-continual-impr.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.01481",
+    "published": "2026-09-01",
+    "title": "Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement"
+  },
+  "2609.01588": {
+    "abs_url": "https://arxiv.org/abs/2609.01588",
+    "authors": [
+      "Chao Zhang",
+      "Abe Davis",
+      "Chih-Wei Chen",
+      "Chin-Chia Hsu"
+    ],
+    "filename": "2609.01588_designing-proactive-thought-partners-for-writing.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.01588",
+    "published": "2026-09-01",
+    "title": "Designing Proactive Thought Partners for Writing"
+  },
+  "2609.02042": {
+    "abs_url": "https://arxiv.org/abs/2609.02042",
+    "authors": [
+      "Yanting Yang",
+      "Can Jin",
+      "Jinman Zhao",
+      "Jiahao Wu",
+      "Yang Zhou",
+      "Zhepeng Wang",
+      "Zhendong Wang",
+      "Mu Zhou",
+      "Dimitris N. Metaxas"
+    ],
+    "filename": "2609.02042_act-more-decide-less-skill-guided-adaptive-action-chunking-for-long-horizon-llm.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.02042",
+    "published": "2026-09-02",
+    "title": "Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents"
+  },
+  "2609.02702": {
+    "abs_url": "https://arxiv.org/abs/2609.02702",
+    "authors": [
+      "Xu Zou",
+      "Jie Tang"
+    ],
+    "filename": "2609.02702_trace-as-state-reasoning-traces-as-conditional-states-for-long-context-transform.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.02702",
+    "published": "2026-09-02",
+    "title": "Trace as State: Reasoning Traces as Conditional States for Long-Context Transformers"
+  },
+  "2609.02730": {
+    "abs_url": "https://arxiv.org/abs/2609.02730",
+    "authors": [
+      "Muhammad Rafay Azhar",
+      "Yuhang Zhou",
+      "Gilbert Jiang",
+      "Yuchen Wang",
+      "Rahul Sharma",
+      "Matthew DeSousa",
+      "Jiayi Liu",
+      "Xin Guo",
+      "Lizhu Zhang",
+      "Xiangjun Fan"
+    ],
+    "filename": "2609.02730_coral-an-llm-native-harness-for-production-recommender-systems.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.02730",
+    "published": "2026-09-02",
+    "title": "CORAL: An LLM-Native Harness for Production Recommender Systems"
+  },
+  "2609.02737": {
+    "abs_url": "https://arxiv.org/abs/2609.02737",
+    "authors": [
+      "Namgyu Ho",
+      "Huzama Ahmad",
+      "Woosung Koh",
+      "Se-Young Yun",
+      "Tal Schuster",
+      "Cicero Nogueira dos Santos"
+    ],
+    "filename": "2609.02737_language-models-can-control-their-own-attention.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.02737",
+    "published": "2026-09-02",
+    "title": "Language Models Can Control Their Own Attention"
+  },
+  "2609.02749": {
+    "abs_url": "https://arxiv.org/abs/2609.02749",
+    "authors": [
+      "Jianlyu Chen",
+      "Yuyang Hu",
+      "Hongjin Qian",
+      "Jiawei Liu",
+      "Wenqing Wei",
+      "Xiaolong Chen",
+      "Defu Lian",
+      "Zhicheng Dou",
+      "Chaozhuo Li",
+      "Qiwei Ye",
+      "Zheng Liu"
+    ],
+    "filename": "2609.02749_repo-to-skill-distilling-github-repositories-into-ai4ai-skills.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.02749",
+    "published": "2026-09-02",
+    "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills"
+  },
+  "2609.04148": {
+    "abs_url": "https://arxiv.org/abs/2609.04148",
+    "authors": [
+      "Jie Wu",
+      "Zhenru Zhang",
+      "Beichen Zhang",
+      "Xuwu Wang",
+      "Yuhui Su",
+      "Mouxiang Chen",
+      "Peng Wang",
+      "Zhihai Wang",
+      "Que Shen",
+      "Hao Zhou",
+      "An Yang",
+      "Fei Huang",
+      "Yujiu Yang",
+      "Dayiheng Liu"
+    ],
+    "filename": "2609.04148_terminal-universe-turning-agent-trajectories-into-scalable-terminal-environments.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.04148",
+    "published": "2026-09-03",
+    "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments"
+  },
+  "2609.04170": {
+    "abs_url": "https://arxiv.org/abs/2609.04170",
+    "authors": [
+      "Davide Paglieri",
+      "Logan Cross",
+      "Tim Genewein",
+      "Joel Z. Leibo",
+      "Nenad Tomasev",
+      "Alexander Sasha Vezhnevets"
+    ],
+    "filename": "2609.04170_a-case-study-on-emergent-cheating-and-whistleblowing-in-autonomous-research-swar.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.04170",
+    "published": "2026-09-03",
+    "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms"
+  },
+  "2609.04611": {
+    "abs_url": "https://arxiv.org/abs/2609.04611",
+    "authors": [
+      "Quan Shi",
+      "Keshav Dhandhania",
+      "Karthik Narasimhan",
+      "Victor Barres"
+    ],
+    "filename": "2609.04611_bench-an-environment-for-end-to-end-realistic-agent-construction.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.04611",
+    "published": "2026-09-04",
+    "title": "$\u03c4^\u03c4$-Bench: An Environment for End-To-End, Realistic Agent Construction"
+  },
+  "2609.04681": {
+    "abs_url": "https://arxiv.org/abs/2609.04681",
+    "authors": [
+      "Happy Bhati"
+    ],
+    "filename": "2609.04681_beyond-code-generation-reliability-verification-and-cost-economics-in-the-agenti.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.04681",
+    "published": "2026-09-04",
+    "title": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle"
+  },
+  "2609.06674": {
+    "abs_url": "https://arxiv.org/abs/2609.06674",
+    "authors": [
+      "Roy Weiss",
+      "Benyamin Konstantinov",
+      "Eitam Sheetrit",
+      "Tomer Simon",
+      "Yisroel Mirsky"
+    ],
+    "filename": "2609.06674_detokenization-leaks-reconstructing-local-llm-outputs-from-cache-traces.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.06674",
+    "published": "2026-09-06",
+    "title": "Detokenization Leaks: Reconstructing Local LLM Outputs From Cache Traces"
+  }
+}
