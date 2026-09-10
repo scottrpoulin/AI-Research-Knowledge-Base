@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DAIR.AI Paper Queue</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --paper: #EFF1EA;
+    --surface: #FFFFFF;
+    --ink: #1E2A22;
+    --ink-muted: #5C6B60;
+    --line: #D8DCCF;
+    --accent: #1F5C6B;
+    --accent-soft: #E4EEEF;
+    --flag: #B8842C;
+    --flag-soft: #F5EBD8;
+    --good: #3B7A3F;
+    --good-soft: #E4EFE1;
+    --bad: #A34A3A;
+    --bad-soft: #F3E4E0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #141815;
+      --surface: #1D2320;
+      --ink: #E7ECE4;
+      --ink-muted: #9AA79C;
+      --line: #333B34;
+      --accent: #6FB8C4;
+      --accent-soft: #1F3236;
+      --flag: #E0A94D;
+      --flag-soft: #3A2E1A;
+      --good: #6FBB74;
+      --good-soft: #223324;
+      --bad: #E08066;
+      --bad-soft: #3A2420;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #141815;
+    --surface: #1D2320;
+    --ink: #E7ECE4;
+    --ink-muted: #9AA79C;
+    --line: #333B34;
+    --accent: #6FB8C4;
+    --accent-soft: #1F3236;
+    --flag: #E0A94D;
+    --flag-soft: #3A2E1A;
+    --good: #6FBB74;
+    --good-soft: #223324;
+    --bad: #E08066;
+    --bad-soft: #3A2420;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    line-height: 1.5;
+  }
+  .page { max-width: 760px; margin: 0 auto; padding: 48px 24px 80px; }
+
+  header { margin-bottom: 36px; }
+  .eyebrow {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 8px;
+  }
+  h1 {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-weight: 700;
+    font-size: 34px;
+    margin: 0 0 6px;
+    text-wrap: balance;
+  }
+  .subtitle { color: var(--ink-muted); margin: 0 0 20px; font-size: 14px; }
+  .stats { display: flex; gap: 10px; flex-wrap: wrap; }
+  .stat {
+    display: flex; align-items: baseline; gap: 6px;
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 8px; padding: 8px 12px; font-size: 13px;
+  }
+  .stat b {
+    font-family: "IBM Plex Mono", monospace;
+    font-variant-numeric: tabular-nums;
+    font-size: 15px;
+  }
+  .stat.pending b { color: var(--flag); }
+  .stat.added b { color: var(--good); }
+  .stat.skipped b { color: var(--ink-muted); }
+
+  section { margin-top: 36px; }
+  h2 {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 14px;
+  }
+
+  .empty {
+    color: var(--ink-muted);
+    font-size: 14px;
+    border: 1px dashed var(--line);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .cards { display: flex; flex-direction: column; gap: 12px; }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 18px 20px;
+  }
+  .card-title {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-weight: 600;
+    font-size: 17px;
+    margin: 0 0 8px;
+    text-wrap: balance;
+  }
+  .meta-row {
+    display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+  .chip {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 6px;
+    padding: 3px 8px;
+  }
+  .authors { color: var(--ink-muted); font-size: 13px; }
+  .source-line { font-size: 13px; margin-bottom: 10px; }
+  .source-line a { color: var(--accent); text-decoration: none; }
+  .source-line a:hover { text-decoration: underline; }
+  .snippet {
+    font-size: 13px;
+    color: var(--ink-muted);
+    font-style: italic;
+    border-left: 2px solid var(--line);
+    padding-left: 10px;
+    margin: 0 0 14px;
+  }
+  .actions { display: flex; gap: 8px; }
+  button {
+    font-family: "IBM Plex Sans", system-ui, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 7px;
+    padding: 8px 14px;
+    border: 1px solid transparent;
+    cursor: pointer;
+  }
+  button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .btn-add { background: var(--good); color: var(--surface); }
+  .btn-add:hover { opacity: 0.9; }
+  .btn-skip { background: transparent; color: var(--bad); border-color: var(--bad); }
+  .btn-skip:hover { background: var(--bad-soft); }
+
+  .history-row {
+    display: flex; justify-content: space-between; gap: 12px;
+    padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 13px;
+  }
+  .history-row:last-child { border-bottom: none; }
+  .history-title { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .history-date {
+    font-family: "IBM Plex Mono", monospace;
+    color: var(--ink-muted);
+    font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
+  }
+  details summary { cursor: pointer; font-size: 13px; color: var(--ink-muted); margin-bottom: 8px; }
+
+  footer {
+    margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line);
+    font-size: 12px; color: var(--ink-muted);
+  }
+  .readonly-note {
+    display: none;
+    background: var(--flag-soft); color: var(--flag);
+    border-radius: 8px; padding: 10px 14px; font-size: 13px; margin-bottom: 20px;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header>
+    <p class="eyebrow">DAIR.AI &middot; LinkedIn</p>
+    <h1>Paper Queue</h1>
+    <p class="subtitle" id="last-checked">Last checked —</p>
+    <div class="stats">
+      <div class="stat pending"><b id="stat-pending">0</b> pending</div>
+      <div class="stat added"><b id="stat-added">0</b> added</div>
+      <div class="stat skipped"><b id="stat-skipped">0</b> skipped</div>
+    </div>
+  </header>
+
+  <p class="readonly-note" id="readonly-note">Read-only view — changes here won't be saved.</p>
+
+  <section>
+    <h2>Pending review</h2>
+    <div class="cards" id="pending-list"></div>
+  </section>
+
+  <section>
+    <h2>Recently added</h2>
+    <div id="added-list"></div>
+  </section>
+
+  <section>
+    <details>
+      <summary>Recently skipped</summary>
+      <div id="skipped-list"></div>
+    </details>
+  </section>
+
+  <footer>Synced by Claude &middot; state lives in this page, catch-up happens on the next manual check.</footer>
+</div>
+
+<script id="app-state" type="application/json">
+{
+  "generatedAt": null,
+  "pending": [],
+  "approved": [],
+  "added": [],
+  "skipped": []
+}
+</script>
+
+<script>
+  const state = JSON.parse(document.getElementById("app-state").textContent);
+  let writable = true;
+
+  function esc(s) {
+    return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  }
+  function fmtDate(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    return isNaN(d) ? "" : d.toISOString().slice(0, 10);
+  }
+
+  function renderPendingCard(item) {
+    const key = esc(item.arxiv_id || item.post_url);
+    return `
+      <div class="card" data-key="${key}">
+        <p class="card-title">${esc(item.title || "(untitled — will backfill on sync)")}</p>
+        <div class="meta-row">
+          ${item.arxiv_id ? `<span class="chip">${esc(item.arxiv_id)}</span>` : ""}
+          ${item.published ? `<span class="chip">${esc(item.published)}</span>` : ""}
+          ${item.authors && item.authors.length ? `<span class="authors">${esc(item.authors.slice(0, 3).join(", "))}${item.authors.length > 3 ? " et al." : ""}</span>` : ""}
+        </div>
+        <p class="source-line">Found in comments on <a href="${esc(item.post_url)}" target="_blank" rel="noopener">the LinkedIn post ↗</a>${item.paper_url ? ` &middot; <a href="${esc(item.paper_url)}" target="_blank" rel="noopener">paper ↗</a>` : ""}</p>
+        ${item.comment_snippet ? `<p class="snippet">"${esc(item.comment_snippet)}"</p>` : ""}
+        <div class="actions">
+          <button class="btn-add" data-action="approve" data-key="${key}">Add to repo</button>
+          <button class="btn-skip" data-action="skip" data-key="${key}">Skip</button>
+        </div>
+      </div>`;
+  }
+
+  function renderHistoryRow(item, dateField) {
+    return `
+      <div class="history-row">
+        <span class="history-title">${esc(item.title || item.arxiv_id)}</span>
+        <span class="history-date">${fmtDate(item[dateField])}</span>
+      </div>`;
+  }
+
+  function render() {
+    document.getElementById("last-checked").textContent =
+      state.generatedAt ? `Last checked ${fmtDate(state.generatedAt)}` : "Not checked yet";
+    document.getElementById("stat-pending").textContent = state.pending.length;
+    document.getElementById("stat-added").textContent = state.added.length;
+    document.getElementById("stat-skipped").textContent = state.skipped.length;
+
+    const pendingList = document.getElementById("pending-list");
+    pendingList.innerHTML = state.pending.length
+      ? state.pending.map(renderPendingCard).join("")
+      : `<div class="empty">Nothing waiting on review.</div>`;
+
+    document.getElementById("added-list").innerHTML = state.added.length
+      ? state.added.slice(0, 30).map(i => renderHistoryRow(i, "added_at")).join("")
+      : `<div class="empty">No papers synced yet.</div>`;
+
+    document.getElementById("skipped-list").innerHTML = state.skipped.length
+      ? state.skipped.slice(0, 30).map(i => renderHistoryRow(i, "skipped_at")).join("")
+      : `<div class="empty">Nothing skipped yet.</div>`;
+
+    document.getElementById("readonly-note").style.display = writable ? "none" : "block";
+  }
+
+  function buildHtml(currentState) {
+    // Full-document serialization: swap the placeholder state JSON into a
+    // fresh copy of this same source and return the complete string.
+    // In the real skill run, Claude keeps this document's source (this file)
+    // and re-embeds `currentState` into the #app-state block before publish —
+    // never serializes the live DOM (documentElement.outerHTML carries
+    // viewer-session junk).
+    return document.documentElement.outerHTML.replace(
+      /(<script id="app-state" type="application\/json">)[\s\S]*?(<\/script>)/,
+      (_, open, close) => `${open}\n${JSON.stringify(currentState, null, 2)}\n${close}`
+    );
+  }
+
+  async function decide(key, decision) {
+    const idx = state.pending.findIndex(p => (p.arxiv_id || p.post_url) === key);
+    if (idx === -1) return;
+    const item = state.pending[idx];
+    state.pending.splice(idx, 1);
+    if (decision === "approve") {
+      state.approved.unshift({ ...item, approved_at: new Date().toISOString() });
+    } else {
+      state.skipped.unshift({ arxiv_id: item.arxiv_id, title: item.title, skipped_at: new Date().toISOString() });
+      state.skipped = state.skipped.slice(0, 30);
+    }
+    render();
+
+    const artifact = await claude.use("artifact");
+    if (!artifact) { writable = false; render(); return; }
+    try {
+      await artifact.publish(buildHtml(state));
+    } catch (e) {
+      if (e && (e.code === "not_writer" || e.code === "not_granted")) {
+        writable = false;
+        render();
+      }
+      // "conflict" and everything else: the shell reloads this view to the
+      // winning version on its own — no retry needed here.
+    }
+  }
+
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest("button[data-action]");
+    if (!btn) return;
+    decide(btn.dataset.key, btn.dataset.action);
+  });
+
+  render();
+</script>
+</body>
+</html>
