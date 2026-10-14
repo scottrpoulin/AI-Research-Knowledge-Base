@@ -1,0 +1,29 @@
+{
+  "bytebytego-best-resources-to-learn-ai-in-2026": {
+    "filename": "bytebytego-best-resources-to-learn-ai-in-2026.pdf",
+    "kind": "guide",
+    "source_url": "https://assets.bytebytego.com/Best-Resources-to-Learn-AI-in-2026.pdf",
+    "title": "Best Resources to Learn AI in 2026 (ByteByteGo)"
+  },
+  "dream-rsi": {
+    "code": "repos/paper-code/dream-rsi",
+    "filename": "dream-rsi.pdf",
+    "kind": "paper",
+    "source_url": "https://github.com/zhengkid/Dream-RSI/blob/main/papers/Dream-RSI.pdf",
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds"
+  },
+  "kimi-k3-tech-report": {
+    "code": "repos/paper-code/kimi-k3",
+    "filename": "kimi-k3-tech-report.pdf",
+    "kind": "tech-report",
+    "source_url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
+    "title": "Kimi K3 Technical Report"
+  },
+  "skill2env": {
+    "code": "repos/paper-code/skill2env",
+    "filename": "skill2env.pdf",
+    "kind": "paper",
+    "source_url": "https://github.com/NVlabs/Skill2Env/blob/main/paper/Skill2Env_arXiv.pdf",
+    "title": "Skill2Env: Reinforcing Agents with Collective Skills"
+  }
+}

@@ -1,4 +1,14 @@
 {
+  "2605.01585": {
+    "abs_url": "https://arxiv.org/abs/2605.01585",
+    "authors": [
+      "Jeremy Levy"
+    ],
+    "filename": "2605.01585_from-qubit-to-qubit-a-graduate-course-in-quantum-mechanics.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.01585",
+    "published": "2026-05-02",
+    "title": "From Qubit to Qubit: A Graduate Course in Quantum Mechanics"
+  },
   "2605.18747": {
     "abs_url": "https://arxiv.org/abs/2605.18747",
     "authors": [
@@ -847,6 +857,20 @@
     "published": "2026-08-12",
     "title": "Jagged Judges: Epistemic Stability Under Perturbation, Pressure, and Persistence"
   },
+  "2608.12875": {
+    "abs_url": "https://arxiv.org/abs/2608.12875",
+    "authors": [
+      "Adnan El Assadi",
+      "Niklas Muennighoff",
+      "Jinhyuk Lee"
+    ],
+    "code": "repos/paper-code/2608.12875-embedders-dilemma",
+    "code_url": "https://github.com/embeddings-benchmark/embedders-dilemma",
+    "filename": "2608.12875_the-embedders-dilemma-llms-are-better-but-at-what-cost.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.12875",
+    "published": "2026-08-13",
+    "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?"
+  },
   "2608.13560": {
     "abs_url": "https://arxiv.org/abs/2608.13560",
     "authors": [
@@ -1450,6 +1474,17 @@
     "published": "2026-09-01",
     "title": "Runtime-Independent Persistent Agents: Preserving Identity, Memory, and Code Across Models, Harnesses, and Servers"
   },
+  "2609.00549": {
+    "abs_url": "https://arxiv.org/abs/2609.00549",
+    "authors": [
+      "Seonghyeon Cho",
+      "Chanjun Park"
+    ],
+    "filename": "2609.00549_skill-following-evaluating-actual-skill-use-in-retrieval-enabled-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.00549",
+    "published": "2026-09-01",
+    "title": "Skill Following: Evaluating Actual Skill Use in Retrieval-Enabled LLM Agents"
+  },
   "2609.01437": {
     "abs_url": "https://arxiv.org/abs/2609.01437",
     "authors": [
@@ -1653,6 +1688,40 @@
     "published": "2026-09-04",
     "title": "Beyond Code Generation: Reliability, Verification, and Cost Economics in the Agentic Software Development Lifecycle"
   },
+  "2609.04852": {
+    "abs_url": "https://arxiv.org/abs/2609.04852",
+    "authors": [
+      "Di Chai",
+      "Leye Wang",
+      "Zeshen Su",
+      "Zhiguo Xia",
+      "Zhihang Yu"
+    ],
+    "code": "repos/paper-code/2609.04852-kvmem",
+    "code_url": "https://github.com/kvmem/kvmem-qw3",
+    "filename": "2609.04852_kvmem-virtualizing-million-token-agent-workspaces-on-a-consumer-gpu.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.04852",
+    "published": "2026-09-04",
+    "title": "KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU"
+  },
+  "2609.05364": {
+    "abs_url": "https://arxiv.org/abs/2609.05364",
+    "authors": [
+      "Samuel Kushnir",
+      "Kimia Noorbakhsh",
+      "Kavya Sreedhar",
+      "Liqun Cheng",
+      "Ming Liu",
+      "Parthasarathy Ranganathan",
+      "Mohammad Alizadeh",
+      "Fred Kjolstad",
+      "Suvinay Subramanian"
+    ],
+    "filename": "2609.05364_design-docs-are-all-you-need-an-ai-native-machine-learning-performance-tool.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.05364",
+    "published": "2026-09-04",
+    "title": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool"
+  },
   "2609.06674": {
     "abs_url": "https://arxiv.org/abs/2609.06674",
     "authors": [
@@ -1666,5 +1735,870 @@
     "pdf_url": "https://arxiv.org/pdf/2609.06674",
     "published": "2026-09-06",
     "title": "Detokenization Leaks: Reconstructing Local LLM Outputs From Cache Traces"
+  },
+  "2609.07925": {
+    "abs_url": "https://arxiv.org/abs/2609.07925",
+    "authors": [
+      "Minseon Kim",
+      "Zhengyan Shi",
+      "Emiliano Penaloza",
+      "Christopher Cui",
+      "Roger Creus Castanyer",
+      "Maryam Hashemzadeh",
+      "Isadora White",
+      "Jonathan Light",
+      "Jeonghye Kim",
+      "Matheus Pereira",
+      "Darya Moldavskaya",
+      "Chinmay Singh",
+      "Fabio Vera",
+      "Baolin Peng",
+      "Xingdi Yuan",
+      "Marc-Alexandre C\u00f4t\u00e9",
+      "Alessandro Sordoni"
+    ],
+    "filename": "2609.07925_frognano-training-a-4b-coding-agent-via-online-task-synthesis.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.07925",
+    "published": "2026-09-07",
+    "title": "FrogNano: Training a 4B Coding Agent via Online Task Synthesis"
+  },
+  "2609.08248": {
+    "abs_url": "https://arxiv.org/abs/2609.08248",
+    "authors": [
+      "Erwin Gao",
+      "Vinodh Kumar Sunkara",
+      "Jingyi Guan",
+      "Qinjin Jia",
+      "Hangjun Xu",
+      "Xiang Ji",
+      "Sherman Wong",
+      "Surya Teja Chavali",
+      "Pratik Vaishnavi",
+      "Aryan Pandhi",
+      "Xiaoyu Deng",
+      "Zhaodong Wang",
+      "Samarth Inani",
+      "Fan Yang",
+      "Jakob Moberg",
+      "Zoe Zu",
+      "Nicolas Bievre",
+      "Sami Khenissi",
+      "Amit Jaspal",
+      "Ehsan Fakharizadi",
+      "Srinidhi Viswanathan",
+      "Dorothy Sun",
+      "Abishek Vanam",
+      "Sneha Iyer",
+      "Sheela Yadawad",
+      "Wenjie Chen",
+      "Gaby Nahum",
+      "Junhua Gu",
+      "Peter Chu",
+      "Yucheng Liu",
+      "Xin Zhao",
+      "Vitor Cid",
+      "Chaorong Chen",
+      "Vijay Pappu",
+      "Ashwin Kumar",
+      "Wenlin Chen",
+      "Ben Schulte",
+      "Deepak Chandra",
+      "Ritwik Tewari"
+    ],
+    "filename": "2609.08248_agentic-ml-exploration-a-mle-for-ads-ranking.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.08248",
+    "published": "2026-09-08",
+    "title": "Agentic ML Exploration (A-MLE) for Ads Ranking"
+  },
+  "2609.08944": {
+    "abs_url": "https://arxiv.org/abs/2609.08944",
+    "authors": [
+      "Gaoyuan Li",
+      "Meihao Fan",
+      "Yizhe Liu",
+      "Shaolei Zhang",
+      "Ju Fan",
+      "Siyi Wang",
+      "Jiaheng Hou",
+      "Xudong Weng",
+      "Honghan Tian",
+      "Zang Li"
+    ],
+    "code": "repos/paper-code/2609.08944-skilladam",
+    "code_url": "https://github.com/ruc-datalab/SkillAdam",
+    "filename": "2609.08944_skilladam-stable-and-efficient-skill-evolution-for-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.08944",
+    "published": "2026-09-08",
+    "title": "SkillAdam: Stable and Efficient Skill Evolution for Agents"
+  },
+  "2609.09153": {
+    "abs_url": "https://arxiv.org/abs/2609.09153",
+    "authors": [
+      "Yuxing Lu",
+      "Yicheng Chen",
+      "Shanchan Wu",
+      "Sercan \u00d6. Ar\u0131k"
+    ],
+    "filename": "2609.09153_procedural-graphs-self-evolving-execution-structures-for-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.09153",
+    "published": "2026-09-08",
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents"
+  },
+  "2609.09646": {
+    "abs_url": "https://arxiv.org/abs/2609.09646",
+    "authors": [
+      "Zibo Zhao",
+      "Jijun Shi",
+      "Mo Zhou",
+      "Zhongyuan Wang",
+      "Shifu Bie",
+      "Yunfei Zhang",
+      "Xuanting Zhou",
+      "Xiangyu Wu",
+      "Bin Liu",
+      "Ruiming Tang",
+      "Wenwu Ou",
+      "Kun Gai"
+    ],
+    "filename": "2609.09646_robustsgpo-search-space-control-for-agent-harness-evolution.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.09646",
+    "published": "2026-09-09",
+    "title": "RobustSGPO: Search-Space Control for Agent Harness Evolution"
+  },
+  "2609.11060": {
+    "abs_url": "https://arxiv.org/abs/2609.11060",
+    "authors": [
+      "Susheel Suresh",
+      "Hazel Mak",
+      "Sahil Bhatnagar",
+      "Chhaya Methani",
+      "Alejandro Gutierrez Munoz"
+    ],
+    "filename": "2609.11060_grounding-agent-memory-environment-probing-curation-for-enterprise-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11060",
+    "published": "2026-09-10",
+    "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents"
+  },
+  "2609.11152": {
+    "abs_url": "https://arxiv.org/abs/2609.11152",
+    "authors": [
+      "Rajarshi Chowdhury"
+    ],
+    "filename": "2609.11152_termstxt-a-consent-and-compensation-protocol-for-agentic-web-access.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11152",
+    "published": "2026-09-10",
+    "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access"
+  },
+  "2609.11294": {
+    "abs_url": "https://arxiv.org/abs/2609.11294",
+    "authors": [
+      "Mengming Li",
+      "Ceyu XU",
+      "Qijun Zhang",
+      "Jiangnan Yu",
+      "Xiangfeng Sun",
+      "Haohui Mai",
+      "Zhiyao Xie"
+    ],
+    "filename": "2609.11294_memory-compression-for-high-fanout-agent-sandboxes.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11294",
+    "published": "2026-09-10",
+    "title": "Memory Compression for High-Fanout Agent Sandboxes"
+  },
+  "2609.11677": {
+    "abs_url": "https://arxiv.org/abs/2609.11677",
+    "authors": [
+      "Ruiqing Yue",
+      "Yu Cui",
+      "Zhuoyu Sun",
+      "Sicheng Pan",
+      "Xianhong Xue",
+      "Tingyu Li",
+      "Ting Li",
+      "Wenzhuo Zhu",
+      "Yi Chen",
+      "Yifei Liu",
+      "Baohan Huang",
+      "Zhe Cui",
+      "Haibin Zhang",
+      "Cong Zuo"
+    ],
+    "code": "repos/paper-code/2609.11677-ecdysis",
+    "code_url": "https://github.com/cuiyu-ai/Ecdysis",
+    "filename": "2609.11677_ecdysis-efficient-and-effective-training-of-runtime-harnesses-for-llm-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11677",
+    "published": "2026-09-10",
+    "title": "Ecdysis: Efficient and Effective Training of Runtime Harnesses for LLM Agents"
+  },
+  "2609.11801": {
+    "abs_url": "https://arxiv.org/abs/2609.11801",
+    "authors": [
+      "Ayhan Suleymanzade",
+      "Chanhyuk Lee",
+      "Floor Eijkelboom",
+      "Nicholas M. Boffi",
+      "\u0130smail \u0130lkan Ceylan",
+      "Jinwoo Kim"
+    ],
+    "filename": "2609.11801_thinking-with-looped-flows.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11801",
+    "published": "2026-09-10",
+    "title": "Thinking with Looped Flows"
+  },
+  "2609.11873": {
+    "abs_url": "https://arxiv.org/abs/2609.11873",
+    "authors": [
+      "Yi Duan",
+      "Ying Liu",
+      "Zirui Tang",
+      "Haodong Chen",
+      "Jun Zhou",
+      "Yumou Liu",
+      "Bangrui Xu",
+      "Yukai Wu",
+      "Sidi Chen",
+      "Yuhan Zhou",
+      "Haoyu Wang",
+      "Xiaoyou Yu",
+      "Shaokun Han",
+      "Xuzhou Zhu",
+      "Le Zhou",
+      "Bolin Lu",
+      "Wei Zhou",
+      "Jiachen Liu",
+      "Nuozhou Fang",
+      "Jiaxin Tian",
+      "Ruoyu Chen",
+      "Yuxuan Li",
+      "Kai Zuo",
+      "Kaiyan Zhang",
+      "Qianyu Yang",
+      "Zijie Wang",
+      "Jiantao Qiu",
+      "Conghui He",
+      "Guoliang Li",
+      "Bowen Zhou",
+      "Zhiyuan Liu",
+      "Zhoufutu Wen",
+      "Jihua Kang",
+      "Xuanhe Zhou",
+      "Fan Wu"
+    ],
+    "filename": "2609.11873_the-last-ai-built-by-humans-toward-genuine-recursive-self-improvement.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11873",
+    "published": "2026-09-10",
+    "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement"
+  },
+  "2609.12303": {
+    "abs_url": "https://arxiv.org/abs/2609.12303",
+    "authors": [
+      "Kalyani Marathe",
+      "Artidoro Pagnoni",
+      "Tomasz Limisiewicz",
+      "Margaret Li",
+      "Mike Lewis",
+      "Luke Zettlemoyer",
+      "Srinivasan Iyer"
+    ],
+    "filename": "2609.12303_breaking-the-token-ceiling-distilling-smaller-stronger-byte-models.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.12303",
+    "published": "2026-09-11",
+    "title": "Breaking the Token Ceiling: Distilling Smaller, Stronger Byte Models"
+  },
+  "2609.14857": {
+    "abs_url": "https://arxiv.org/abs/2609.14857",
+    "authors": [
+      "Siwei Wu",
+      "Jincheng Ren",
+      "Yizhi Li",
+      "Haau-Sing Li",
+      "Chengran Yang",
+      "Xudong Ma",
+      "Yuxuan Zhang",
+      "Weicheng Gu",
+      "Jian Yang",
+      "Riza Batista-Navarro",
+      "Chuanyi Zhang",
+      "Xianglong Liu",
+      "Ming Zhou",
+      "Bryan Dai",
+      "Chenghua Lin"
+    ],
+    "code": "repos/paper-code/2609.14857-modularrsi",
+    "code_url": "https://github.com/IQuestLab/ModularRSI",
+    "filename": "2609.14857_modularrsi-modular-and-generalizable-recursive-harness-self-improvement.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.14857",
+    "published": "2026-09-14",
+    "title": "ModularRSI: Modular and Generalizable Recursive Harness Self-Improvement"
+  },
+  "2609.15066": {
+    "abs_url": "https://arxiv.org/abs/2609.15066",
+    "authors": [
+      "Zixiang Chen",
+      "Sufeng Niu",
+      "Yingchi Liu",
+      "Wenting Zhao",
+      "Akshara Prabhakar",
+      "Shubham Mehrotra",
+      "Bin Bi",
+      "Zhujun Lan",
+      "Katherine Tan",
+      "Mohammad Ramezanali",
+      "Tulika Manoj Awalgaonkar",
+      "Monojit Banerjee",
+      "Jielin Qiu",
+      "Shiva Kumar Pentyala",
+      "Zhepeng Cen",
+      "Anupam Tripathi",
+      "Ali Ziaei",
+      "Regunathan Radhakrishnan",
+      "Darvish Lee Shadravan",
+      "Shelby Heinecke",
+      "Sitaram Asur",
+      "Jayesh Govindarajan",
+      "Silvio Savarese",
+      "James Zhu",
+      "Phil Mui",
+      "Huan Wang"
+    ],
+    "filename": "2609.15066_salesforce-koa-an-enterprise-language-model-for-agentic-tool-use.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.15066",
+    "published": "2026-09-14",
+    "title": "Salesforce Koa: An Enterprise Language Model for Agentic Tool Use"
+  },
+  "2609.15396": {
+    "abs_url": "https://arxiv.org/abs/2609.15396",
+    "authors": [
+      "Haoxiang Kang",
+      "Ming Wen"
+    ],
+    "code": "repos/paper-code/2609.15396-skilllift",
+    "code_url": "https://github.com/WalteR-MittY-pro/SkillLift",
+    "filename": "2609.15396_skilllift-learning-dense-rubrics-from-sparse-oracles-for-efficient-skill-evoluti.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.15396",
+    "published": "2026-09-14",
+    "title": "SkillLift: Learning Dense Rubrics from Sparse Oracles for Efficient Skill Evolution"
+  },
+  "2609.15779": {
+    "abs_url": "https://arxiv.org/abs/2609.15779",
+    "authors": [
+      "Meiduo Chong",
+      "Shaolei Zhang",
+      "Ju Fan",
+      "Xiaoyong Du"
+    ],
+    "code": "repos/paper-code/2609.15779-evoontology",
+    "code_url": "https://github.com/ruc-datalab/EvoOntology",
+    "filename": "2609.15779_evoontology-a-self-evolving-ontology-layer-for-data-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.15779",
+    "published": "2026-09-14",
+    "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents"
+  },
+  "2609.15983": {
+    "abs_url": "https://arxiv.org/abs/2609.15983",
+    "authors": [
+      "Honghao Lin",
+      "David P. Woodruff",
+      "Yuan Deng",
+      "Jieming Mao",
+      "Song Zuo",
+      "Vahab Mirrokni"
+    ],
+    "filename": "2609.15983_stellar-colosseum-a-many-agent-harness-for-long-horizon-research-in-mathematics.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.15983",
+    "published": "2026-09-14",
+    "title": "Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science"
+  },
+  "2609.16487": {
+    "abs_url": "https://arxiv.org/abs/2609.16487",
+    "authors": [
+      "Aniruddha Tamhane",
+      "Raghavendra Addanki",
+      "Ayushi Aggarwal",
+      "Aditya Bansal",
+      "Rui Wang",
+      "Charles Menguy",
+      "Swati Jain"
+    ],
+    "filename": "2609.16487_skill-based-agentic-evaluation-for-real-time-data-science-tasks.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.16487",
+    "published": "2026-09-15",
+    "title": "Skill-based Agentic Evaluation for Real-time Data Science Tasks"
+  },
+  "2609.17306": {
+    "abs_url": "https://arxiv.org/abs/2609.17306",
+    "authors": [
+      "Sara Vera Marjanovi\u0107",
+      "Jiacheng Xu",
+      "Aleksandr Laptev",
+      "Grigor Nalbandyan",
+      "Erik Arakelyan",
+      "Evelina Bakhaturina"
+    ],
+    "filename": "2609.17306_mo-models-mo-problems-how-to-best-select-model-pools-when-designing-multi-agent.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.17306",
+    "published": "2026-09-15",
+    "title": "Mo' Models, Mo' Problems: How to best select model pools when designing Multi-Agent Systems"
+  },
+  "2609.17699": {
+    "abs_url": "https://arxiv.org/abs/2609.17699",
+    "authors": [
+      "Johnny Greco",
+      "Nabin Mulepati",
+      "Andre Manoel",
+      "Eric Tramel",
+      "Kirit Thadaka",
+      "Mike Knepper",
+      "Dhruv Nathawani",
+      "Dane Corneil",
+      "Yev Meyer",
+      "Alex Watson",
+      "Maarten Van Segbroeck"
+    ],
+    "code": "repos/paper-code/2609.17699-nemo-data-designer",
+    "code_url": "https://github.com/NVIDIA-NeMo/DataDesigner",
+    "filename": "2609.17699_nemo-data-designer-an-extensible-framework-for-multimodal-synthetic-data-generat.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.17699",
+    "published": "2026-09-15",
+    "title": "NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation"
+  },
+  "2609.18844": {
+    "abs_url": "https://arxiv.org/abs/2609.18844",
+    "authors": [
+      "Liyang Fan",
+      "Chi Wei",
+      "Yitai Li",
+      "Xinping Bi",
+      "Guhong Chen",
+      "Chenghao Sun",
+      "Haoxiang Yang",
+      "Qingwen Li",
+      "Kai Yan",
+      "Hong Li",
+      "Bo Li"
+    ],
+    "filename": "2609.18844_refigbench-benchmarking-scientific-figure-reconstruction-as-editable-powerpoint.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.18844",
+    "published": "2026-09-16",
+    "title": "ReFigBench: Benchmarking Scientific Figure Reconstruction as Editable PowerPoint Artifacts"
+  },
+  "2609.19315": {
+    "abs_url": "https://arxiv.org/abs/2609.19315",
+    "authors": [
+      "Ruiyang Wang",
+      "Hao-Lun Hsu",
+      "Swarajh Mehta",
+      "Jiwoo Kim",
+      "Zhihao Dou",
+      "Miroslav Pajic"
+    ],
+    "filename": "2609.19315_gavel-graph-world-models-for-verified-and-efficient-long-horizon-llm-task-planni.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.19315",
+    "published": "2026-09-16",
+    "title": "GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning"
+  },
+  "2609.19334": {
+    "abs_url": "https://arxiv.org/abs/2609.19334",
+    "authors": [
+      "Ke Hu",
+      "Slyne Deng",
+      "Chen Chen",
+      "Elena Rastorgueva",
+      "Edresson Casanova",
+      "Punit Kumar",
+      "Dharmendra Choudhary",
+      "Nikhil Srihari",
+      "Ameya Sunil Mahabaleshwarkar",
+      "Viet Anh Trinh",
+      "Slim Essid",
+      "Oluwatobi Olabiyi",
+      "Zhehuai Chen"
+    ],
+    "filename": "2609.19334_a-frontend-backend-architecture-for-tool-calls-in-full-duplex-speech-models.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.19334",
+    "published": "2026-09-16",
+    "title": "A frontend-backend architecture for tool calls in full-duplex speech models"
+  },
+  "2609.20519": {
+    "abs_url": "https://arxiv.org/abs/2609.20519",
+    "authors": [
+      "Haozhe Liu",
+      "Tian Ye",
+      "Sensen Gao",
+      "Qihang Cao",
+      "Yitong Li",
+      "Mingchen Zhuge",
+      "Duomin Wang",
+      "Ruihua Zhang",
+      "Ping Luo",
+      "Jiawang Bian",
+      "Lei Zhu",
+      "Ligeng Zhu",
+      "Enze Xie",
+      "Song Han"
+    ],
+    "filename": "2609.20519_sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.20519",
+    "published": "2026-09-17",
+    "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness"
+  },
+  "2609.20804": {
+    "abs_url": "https://arxiv.org/abs/2609.20804",
+    "authors": [
+      "Run-Ze Fan",
+      "Zihao Zhang",
+      "Simin Ma",
+      "Yebowen Hu",
+      "Shouju Wang",
+      "Kaiqiang Song",
+      "Fei Liu",
+      "Hamed Zamani",
+      "Xiaoyang Wang"
+    ],
+    "filename": "2609.20804_an-empirical-study-of-harness-design-for-coding-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.20804",
+    "published": "2026-09-17",
+    "title": "An Empirical Study of Harness Design for Coding Agents"
+  },
+  "2609.22592": {
+    "abs_url": "https://arxiv.org/abs/2609.22592",
+    "authors": [
+      "Aarati Andrea Noronha",
+      "Kavya Ravikumar",
+      "Carly Xiaoyu Lin"
+    ],
+    "filename": "2609.22592_autogym-blueprint-first-generation-of-verifiable-agent-gyms.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.22592",
+    "published": "2026-09-18",
+    "title": "AutoGym: Blueprint-First Generation of Verifiable Agent Gyms"
+  },
+  "2609.23986": {
+    "abs_url": "https://arxiv.org/abs/2609.23986",
+    "authors": [
+      "Dongming Jiang",
+      "Yi Li",
+      "Bingzhe Li"
+    ],
+    "code": "repos/paper-code/2609.23986-jev-mem",
+    "code_url": "https://github.com/libingzheren/Jev-Mem",
+    "filename": "2609.23986_jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.23986",
+    "published": "2026-09-21",
+    "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents"
+  },
+  "2609.24972": {
+    "abs_url": "https://arxiv.org/abs/2609.24972",
+    "authors": [
+      "Peng Xia",
+      "Rujun Han",
+      "Zifeng Wang",
+      "Yanfei Chen",
+      "Yufan Zhuang",
+      "Yoonho Lee",
+      "Chengsong Huang",
+      "Han Yu",
+      "Zhongying CuiZhu",
+      "Yifei Ming",
+      "Huaxiu Yao",
+      "Burak Gokturk",
+      "Tomas Pfister",
+      "Chen-Yu Lee"
+    ],
+    "code": "repos/paper-code/2609.24972-rrsi",
+    "code_url": "https://github.com/google-research/rrsi",
+    "filename": "2609.24972_rrsi-regularized-recursive-self-improvement-of-agent-harnesses.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.24972",
+    "published": "2026-09-21",
+    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
+  },
+  "2609.24974": {
+    "abs_url": "https://arxiv.org/abs/2609.24974",
+    "authors": [
+      "Haoran Ye",
+      "Yuxing Lu",
+      "Haonan Dong",
+      "Zhaochen Su",
+      "Guojie Song"
+    ],
+    "code": "repos/paper-code/2609.24974-harness-zero",
+    "code_url": "https://github.com/metaevo-ai/harness-zero",
+    "filename": "2609.24974_harness-zero-harness-distillation-via-agent-as-harness.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.24974",
+    "published": "2026-09-21",
+    "title": "Harness-Zero: Harness Distillation via Agent-as-Harness"
+  },
+  "2609.26550": {
+    "abs_url": "https://arxiv.org/abs/2609.26550",
+    "authors": [
+      "Yubo Li",
+      "Yidi Miao",
+      "Ramayya Krishnan",
+      "Rema Padman"
+    ],
+    "filename": "2609.26550_jev-as-a-judge-accept-when-confident-escalate-when-unsure.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.26550",
+    "published": "2026-09-22",
+    "title": "JEV-as-a-Judge: Accept When Confident, Escalate When Unsure"
+  },
+  "2609.31590": {
+    "abs_url": "https://arxiv.org/abs/2609.31590",
+    "authors": [
+      "Raphael Shu",
+      "Yusen Zhang",
+      "Young Min Cho",
+      "Jin Mo Yang",
+      "Yuan Yuan",
+      "Wenliang Zheng",
+      "Sharath Chandra Guntuku",
+      "Lyle Ungar",
+      "Zhou Yu",
+      "Rui Zhang"
+    ],
+    "filename": "2609.31590_agentworld-benchmarking-long-horizon-collaboration-of-multi-agent-llms.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.31590",
+    "published": "2026-09-25",
+    "title": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs"
+  },
+  "2609.33439": {
+    "abs_url": "https://arxiv.org/abs/2609.33439",
+    "authors": [
+      "EverMind AI"
+    ],
+    "code": "repos/paper-code/2609.33439-raven",
+    "code_url": "https://github.com/EverMind-AI/Raven",
+    "filename": "2609.33439_raven-the-harness-of-harnesses-for-composable-agentic-intelligence.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.33439",
+    "published": "2026-09-27",
+    "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence"
+  },
+  "2609.35738": {
+    "abs_url": "https://arxiv.org/abs/2609.35738",
+    "authors": [
+      "Alvin Zhang",
+      "Xuecheng Liu",
+      "Zixuan Wang",
+      "Fahim Tajwar",
+      "Daman Arora",
+      "Ruslan Salakhutdinov",
+      "Daniel Khashabi",
+      "Yuda Song",
+      "Andrea Zanette"
+    ],
+    "filename": "2609.35738_harness-learning-enables-generalizable-test-time-adaptation.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.35738",
+    "published": "2026-09-28",
+    "title": "Harness Learning Enables Generalizable Test-Time Adaptation"
+  },
+  "2609.37725": {
+    "abs_url": "https://arxiv.org/abs/2609.37725",
+    "authors": [
+      "Rulin Shao",
+      "Shannon Zejiang Shen",
+      "Junjie Oscar Yin",
+      "Yuetai Li",
+      "Minheng Wang",
+      "Hamish Ivison",
+      "Radha Poovendran",
+      "Nathan Lambert",
+      "Teng Xiao",
+      "Mike Lewis",
+      "Wen-tau Yih",
+      "Luke Zettlemoyer",
+      "Pang Wei Koh"
+    ],
+    "code": "repos/paper-code/2609.37725-context-language-models",
+    "code_url": "https://github.com/facebookresearch/context-language-models",
+    "filename": "2609.37725_context-language-models.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37725",
+    "published": "2026-09-29",
+    "title": "Context Language Models"
+  },
+  "2609.37834": {
+    "abs_url": "https://arxiv.org/abs/2609.37834",
+    "authors": [
+      "Haoyu Dong",
+      "Yuhang Zhou",
+      "Zihao Lin",
+      "Yifan Wu",
+      "Bo Peng",
+      "Mingyi Wang",
+      "Xiangjun Fan",
+      "Lizhu Zhang",
+      "Zhuokai Zhao"
+    ],
+    "filename": "2609.37834_mixture-of-self-improving-branches-for-agent-harness-optimization.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37834",
+    "published": "2026-09-29",
+    "title": "Mixture of Self-Improving Branches For Agent Harness Optimization"
+  },
+  "2609.37968": {
+    "abs_url": "https://arxiv.org/abs/2609.37968",
+    "authors": [
+      "Jungwoo Yang",
+      "Injin Kong",
+      "Yohan Jo"
+    ],
+    "filename": "2609.37968_selfsearch-reward-free-search-for-self-improving-agents.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37968",
+    "published": "2026-09-29",
+    "title": "SelfSearch: Reward-Free Search for Self-Improving Agents"
+  },
+  "2609.38147": {
+    "abs_url": "https://arxiv.org/abs/2609.38147",
+    "authors": [
+      "Paras Dahal",
+      "Anton Bakhtin",
+      "Taco Cohen",
+      "Zhengxing Chen",
+      "Carole-Jean Wu",
+      "Rob Fergus",
+      "Scott Yih",
+      "Gabriel Synnaeve",
+      "Ruslan Salakhutdinov",
+      "Sanjeev Arora",
+      "Jason Weston",
+      "Anirudh Goyal"
+    ],
+    "filename": "2609.38147_thinking-before-thinking-scaling-agentic-inference-through-meta-reasoning.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.38147",
+    "published": "2026-09-29",
+    "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning"
+  },
+  "2609.40324": {
+    "abs_url": "https://arxiv.org/abs/2609.40324",
+    "authors": [
+      "Yang Cai",
+      "Vineet Gupta",
+      "Yanchen Jiang",
+      "Christopher Liaw",
+      "Aranyak Mehta",
+      "Grigoris Velegkas",
+      "Di Wang"
+    ],
+    "filename": "2609.40324_cogentic-multi-agent-orchestration-for-automated-proof-discovery.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.40324",
+    "published": "2026-09-30",
+    "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery"
+  },
+  "2610.00906": {
+    "abs_url": "https://arxiv.org/abs/2610.00906",
+    "authors": [
+      "Sungho Park",
+      "Wonjoong Kim",
+      "Jue Zhang",
+      "Wook-Shin Han",
+      "Pengfei Gao",
+      "Chanyoung Park",
+      "Yongqiang Yao",
+      "Rao Fu",
+      "Elsie Nallipogu",
+      "Qingwei Lin",
+      "Victor R\u00fchle"
+    ],
+    "filename": "2610.00906_activesaddler-automated-curriculum-learning-for-agent-harness-optimization.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.00906",
+    "published": "2026-10-01",
+    "title": "ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization"
+  },
+  "2610.05912": {
+    "abs_url": "https://arxiv.org/abs/2610.05912",
+    "authors": [
+      "Jingying Zeng",
+      "Zhenwei Dai",
+      "Jinning Li",
+      "Changho Shin",
+      "Dylan Zhang",
+      "Yuxuan Lu",
+      "Qi He",
+      "Dakuo Wang",
+      "Kai-Wei Chang"
+    ],
+    "filename": "2610.05912_minicorp-the-last-mile-of-the-ai-agent-firm.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.05912",
+    "published": "2026-10-05",
+    "title": "MiniCorp: The Last Mile of the AI Agent Firm"
+  },
+  "2610.07907": {
+    "abs_url": "https://arxiv.org/abs/2610.07907",
+    "authors": [
+      "Ciaran Regan",
+      "Kai Arulkumaran",
+      "Luke Darlow",
+      "Stefania Druga",
+      "Sebastian Risi",
+      "Llion Jones"
+    ],
+    "filename": "2610.07907_continuous-memory-machines.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.07907",
+    "published": "2026-10-06",
+    "title": "Continuous Memory Machines"
+  },
+  "2610.08902": {
+    "abs_url": "https://arxiv.org/abs/2610.08902",
+    "authors": [
+      "Harman Singh",
+      "Anton Bakhtin",
+      "Rulin Shao",
+      "Gabriel Synnaeve",
+      "Ilia Kulikov",
+      "Rob Fergus",
+      "Sanjeev Arora",
+      "Kurt Keutzer",
+      "Jason Weston",
+      "Anuj Mahajan",
+      "Anirudh Goyal"
+    ],
+    "filename": "2610.08902_agent-plasticity-measuring-self-improvement-through-experience.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08902",
+    "published": "2026-10-06",
+    "title": "Agent Plasticity: Measuring Self-Improvement Through Experience"
+  },
+  "2610.12176": {
+    "abs_url": "https://arxiv.org/abs/2610.12176",
+    "authors": [
+      "Hyunin Lee",
+      "Jinglue Xu",
+      "Jeffrey Seely",
+      "Donghyun Lee",
+      "Somayeh Sojoudi",
+      "Matei Zaharia",
+      "Yujin Tang"
+    ],
+    "filename": "2610.12176_recursive-self-improvement-through-multi-agent-self-supervision.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.12176",
+    "published": "2026-10-08",
+    "title": "Recursive Self-Improvement through Multi-Agent Self-Supervision"
+  },
+  "2610.12274": {
+    "abs_url": "https://arxiv.org/abs/2610.12274",
+    "authors": [
+      "Haolin Yang",
+      "Jipeng Zhang",
+      "Zhiqiang Qian",
+      "Jian Xie",
+      "Shuaishuai Gong",
+      "Sirui Han",
+      "Yike Guo"
+    ],
+    "filename": "2610.12274_harnesssql-harness-native-training-for-sql-agents-in-realistic-database-environm.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.12274",
+    "published": "2026-10-08",
+    "title": "HarnessSQL: Harness-Native Training for SQL Agents in Realistic Database Environments"
+  },
+  "2610.12668": {
+    "abs_url": "https://arxiv.org/abs/2610.12668",
+    "authors": [
+      "Yuxin Xiao",
+      "Zhiyun Lu",
+      "Jianyu Wang",
+      "Yangtian Zhang",
+      "Yang Song",
+      "Qifan Wang",
+      "Bailin Wang"
+    ],
+    "filename": "2610.12668_recurrent-harness-for-agentic-continual-learning.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.12668",
+    "published": "2026-10-08",
+    "title": "Recurrent Harness for Agentic Continual Learning"
   }
 }

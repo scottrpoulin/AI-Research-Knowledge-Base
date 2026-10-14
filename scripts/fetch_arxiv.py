@@ -15,6 +15,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import re
 import sys
@@ -66,7 +67,9 @@ def fetch_metadata(ids: list[str], batch_size: int = 20, pause: float = 3.0, ret
             except NETWORK_ERRORS as e:
                 print(f"  ! metadata fetch attempt {attempt}/{retries} failed for batch {batch}: {e}", file=sys.stderr)
                 if attempt < retries:
-                    time.sleep(pause)
+                    # arXiv's API answers 429 when hit too often; back off much harder than the normal pause.
+                    rate_limited = isinstance(e, urllib.error.HTTPError) and e.code == 429
+                    time.sleep(pause * (10 * attempt if rate_limited else 1))
         if data is None:
             continue
 
@@ -88,6 +91,31 @@ def fetch_metadata(ids: list[str], batch_size: int = 20, pause: float = 3.0, ret
         if i + batch_size < len(ids):
             time.sleep(pause)
     return results
+
+
+def fetch_abs_page_metadata(arxiv_id: str, pause: float = 3.0) -> dict | None:
+    """Fallback for when the export API is down or rate-limiting: read the abs page's citation_* meta tags."""
+    req = urllib.request.Request(f"https://arxiv.org/abs/{arxiv_id}", headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            page = resp.read().decode("utf-8", "replace")
+    except NETWORK_ERRORS as e:
+        print(f"  ! abs page fetch failed for {arxiv_id}: {e}", file=sys.stderr)
+        return None
+    finally:
+        time.sleep(pause)
+
+    def metas(name: str) -> list[str]:
+        return [html.unescape(v) for v in re.findall(rf'<meta name="{name}" content="([^"]*)"', page)]
+
+    titles = metas("citation_title")
+    if not titles:
+        return None
+    # citation_author is "Last, First"; the API (and the rest of the manifest) uses "First Last".
+    authors = [" ".join(reversed(a.split(", ", 1))) for a in metas("citation_author")]
+    dates = metas("citation_date") or metas("citation_online_date")
+    published = dates[0].replace("/", "-") if dates else ""
+    return {"title": re.sub(r"\s+", " ", titles[0]).strip(), "authors": authors, "published": published}
 
 
 def download_pdf(arxiv_id: str, dest: Path, pause: float = 3.0, retries: int = 3) -> bool:
@@ -147,9 +175,17 @@ def main() -> None:
     manifest_path = args.out_dir / "manifest.json"
     manifest = load_manifest(manifest_path)
 
-    to_fetch_meta = [i for i in ids if i not in manifest or args.force]
+    # Also re-query entries saved without a title (e.g. the metadata API was rate-limited last run).
+    to_fetch_meta = [i for i in ids if i not in manifest or not manifest[i].get("title") or args.force]
     print(f"{len(ids)} IDs total, fetching metadata for {len(to_fetch_meta)} new/forced entries...")
     metadata = fetch_metadata(to_fetch_meta, pause=args.pause) if to_fetch_meta else {}
+    missing = [i for i in to_fetch_meta if i not in metadata]
+    if missing:
+        print(f"API returned no metadata for {len(missing)} IDs; falling back to abs pages...")
+        for aid in missing:
+            meta = fetch_abs_page_metadata(aid, pause=args.pause)
+            if meta:
+                metadata[aid] = meta
 
     downloaded, skipped, failed = 0, 0, []
     for aid in ids:
@@ -163,6 +199,14 @@ def main() -> None:
         if existing_entry and not args.force:
             existing_path = args.out_dir / existing_entry.get("filename", "")
             if existing_path.exists():
+                if not existing_entry.get("title") and aid in metadata:
+                    # Backfill metadata and give the PDF its proper titled filename.
+                    existing_path.rename(dest)
+                    existing_entry.update(filename=filename, title=title,
+                                          authors=meta.get("authors", []),
+                                          published=meta.get("published", ""))
+                    save_manifest(manifest_path, manifest)
+                    print(f"[{aid}] backfilled metadata -> {filename}")
                 skipped += 1
                 continue
 

@@ -36,3 +36,10 @@ to re-run: already-downloaded papers are skipped unless `--force` is passed.
 - `papers/manifest.json` is the source of truth for what's already fetched;
   it's keyed by arXiv ID so it merges cleanly as the list grows.
 - Filenames are `<arxiv_id>_<slugified-title>.pdf`.
+- If the export API times out or returns 429, the script falls back to the
+  abs page's `citation_*` meta tags. Entries saved without a title get
+  backfilled and renamed on the next run.
+- When a paper has an official code repo, add it as a shallow submodule at
+  `repos/paper-code/<arxiv_id>-<short-name>` (`git submodule add --depth 1`),
+  set `code`/`code_url` on its manifest entry, and add a row to
+  `repos/README.md`.

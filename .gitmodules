@@ -1,0 +1,96 @@
+[submodule "repos/paper-code/dream-rsi"]
+	path = repos/paper-code/dream-rsi
+	url = https://github.com/zhengkid/Dream-RSI
+	shallow = true
+[submodule "repos/paper-code/skill2env"]
+	path = repos/paper-code/skill2env
+	url = https://github.com/NVlabs/Skill2Env
+	shallow = true
+[submodule "repos/paper-code/kimi-k3"]
+	path = repos/paper-code/kimi-k3
+	url = https://github.com/MoonshotAI/Kimi-K3
+	shallow = true
+[submodule "repos/agent-harness/autoharness"]
+	path = repos/agent-harness/autoharness
+	url = https://github.com/tigerless-labs/autoharness
+	shallow = true
+[submodule "repos/agent-harness/abide"]
+	path = repos/agent-harness/abide
+	url = https://github.com/coldteadotai/abide
+	shallow = true
+[submodule "repos/agent-research/hyperresearch"]
+	path = repos/agent-research/hyperresearch
+	url = https://github.com/jordan-gibbs/hyperresearch
+	shallow = true
+[submodule "repos/agent-research/rea"]
+	path = repos/agent-research/rea
+	url = https://github.com/morluto/rea
+	shallow = true
+[submodule "repos/efficient-inference/airllm"]
+	path = repos/efficient-inference/airllm
+	url = https://github.com/lyogavin/airllm
+	shallow = true
+[submodule "repos/efficient-inference/kimi-k3-in-c"]
+	path = repos/efficient-inference/kimi-k3-in-c
+	url = https://github.com/FareedKhan-dev/kimi-k3-in-c
+	shallow = true
+[submodule "repos/models-and-world-models/mini-agi"]
+	path = repos/models-and-world-models/mini-agi
+	url = https://github.com/volotat/mini-AGI
+	shallow = true
+[submodule "repos/models-and-world-models/utopia"]
+	path = repos/models-and-world-models/utopia
+	url = https://github.com/deeplethe/utopia
+	shallow = true
+[submodule "repos/paper-code/2608.12875-embedders-dilemma"]
+	path = repos/paper-code/2608.12875-embedders-dilemma
+	url = https://github.com/embeddings-benchmark/embedders-dilemma
+	shallow = true
+[submodule "repos/paper-code/2609.04852-kvmem"]
+	path = repos/paper-code/2609.04852-kvmem
+	url = https://github.com/kvmem/kvmem-qw3
+	shallow = true
+[submodule "repos/paper-code/2609.08944-skilladam"]
+	path = repos/paper-code/2609.08944-skilladam
+	url = https://github.com/ruc-datalab/SkillAdam
+	shallow = true
+[submodule "repos/paper-code/2609.11677-ecdysis"]
+	path = repos/paper-code/2609.11677-ecdysis
+	url = https://github.com/cuiyu-ai/Ecdysis
+	shallow = true
+[submodule "repos/paper-code/2609.14857-modularrsi"]
+	path = repos/paper-code/2609.14857-modularrsi
+	url = https://github.com/IQuestLab/ModularRSI
+	shallow = true
+[submodule "repos/paper-code/2609.15396-skilllift"]
+	path = repos/paper-code/2609.15396-skilllift
+	url = https://github.com/WalteR-MittY-pro/SkillLift
+	shallow = true
+[submodule "repos/paper-code/2609.15779-evoontology"]
+	path = repos/paper-code/2609.15779-evoontology
+	url = https://github.com/ruc-datalab/EvoOntology
+	shallow = true
+[submodule "repos/paper-code/2609.17699-nemo-data-designer"]
+	path = repos/paper-code/2609.17699-nemo-data-designer
+	url = https://github.com/NVIDIA-NeMo/DataDesigner
+	shallow = true
+[submodule "repos/paper-code/2609.23986-jev-mem"]
+	path = repos/paper-code/2609.23986-jev-mem
+	url = https://github.com/libingzheren/Jev-Mem
+	shallow = true
+[submodule "repos/paper-code/2609.24972-rrsi"]
+	path = repos/paper-code/2609.24972-rrsi
+	url = https://github.com/google-research/rrsi
+	shallow = true
+[submodule "repos/paper-code/2609.24974-harness-zero"]
+	path = repos/paper-code/2609.24974-harness-zero
+	url = https://github.com/metaevo-ai/harness-zero
+	shallow = true
+[submodule "repos/paper-code/2609.33439-raven"]
+	path = repos/paper-code/2609.33439-raven
+	url = https://github.com/EverMind-AI/Raven
+	shallow = true
+[submodule "repos/paper-code/2609.37725-context-language-models"]
+	path = repos/paper-code/2609.37725-context-language-models
+	url = https://github.com/facebookresearch/context-language-models
+	shallow = true
